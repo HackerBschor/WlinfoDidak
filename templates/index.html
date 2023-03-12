@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+    {% include 'tu_linien_netzplan.svg' %}
+
+    <script>
+        let stations = document.getElementById("Stations").children;
+
+
+        for (let i = 0; i < stations.length; i++) {
+
+
+
+        }
+
+        /*
+        let tuLinien = document.getElementById("TULinien");
+        let desc = document.getElementById("desc");
+        let ubahnen = tuLinien.getElementById("U-bahn").getElementsByClassName("routes");
+
+        function createText(text, x, y) {
+            let newText = document.createElementNS("http://www.w3.org/2000/svg", "text");
+            newText.setAttributeNS(null,"x", x);
+            newText.setAttributeNS(null,"y", y);
+
+            let textNode = document.createTextNode(text);
+            newText.appendChild(textNode);
+
+            return newText;
+        }
+
+        for(let i = 0; i < ubahnen.length; i++){
+            let strecken = ubahnen[i].children;
+            for (let j = 0; j < strecken.length; j++) {
+                let id = strecken[j].id;
+                let strecke = (strecken[j].tagName == "g") ? (strecken[j].children[0]) : (strecken[j]);
+
+                console.log(strecke.getAttribute("d"));
+
+                //desc.appendChild(createText(id, 0, 400*j));
+            }
+        }
+        */
+    </script>
+</body>
+</html>

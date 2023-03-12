@@ -1,0 +1,979 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 14044 9934" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g id="S-Bahn">
+        <g id="S60">
+            <g id="Blumental:Bahnhof-Meidling" serif:id="Blumental:Bahnhof Meidling" transform="matrix(1,0,0,1,0,72)">
+                <path d="M4767.89,7695L4997,7695L4997,8068.78L5927.1,8998.89" style="fill:none;stroke:rgb(0,185,242);stroke-width:75px;"/>
+            </g>
+            <path id="Bahnhof-Meidling:Südtiroler-Platz-Hauptbahnhof" serif:id="Bahnhof Meidling:Südtiroler Platz Hauptbahnhof" d="M4767.89,7767L4767.89,7693L6943.71,7693" style="fill:none;stroke:rgb(0,185,242);stroke-width:75px;"/>
+            <path id="Südtiroler-Platz-Hauptbahnhof:Grillgasse" serif:id="Südtiroler Platz Hauptbahnhof:Grillgasse" d="M6943.71,7693L8169,7693L8774.21,8298.21" style="fill:none;stroke:rgb(0,185,242);stroke-width:75px;"/>
+            <path id="Grillgasse:Kledering" d="M8774.21,8298.21L9359.23,8883.23" style="fill:none;stroke:rgb(0,185,242);stroke-width:75px;"/>
+        </g>
+        <g id="S80">
+            <path id="Hütteldorf:Speising" d="M2362.69,6124L2879,6124L2879,6712L3266.91,7099.91" style="fill:none;stroke:rgb(0,185,242);stroke-width:75px;"/>
+            <path id="Speising:Bahnhof-Meidling" serif:id="Speising:Bahnhof Meidling" d="M3266.91,7099.91L3700.34,7533.34L4767.89,7532.07" style="fill:none;stroke:rgb(0,185,242);stroke-width:75px;"/>
+            <g id="Bahnhof-Meidling:Matzleinsdorfer-Platz" serif:id="Bahnhof Meidling:Matzleinsdorfer Platz" transform="matrix(0.5,0,0,0.5,2383.95,3766.67)">
+                <path d="M4767.89,7533.34L6943.71,7533.34" style="fill:none;stroke:rgb(0,185,242);stroke-width:150px;"/>
+            </g>
+            <path id="Matzleinsdorfer-Platz:Südtiroler-Platz-Hauptbahnhof" serif:id="Matzleinsdorfer Platz:Südtiroler Platz Hauptbahnhof" d="M5855.8,7533.34L6943.71,7533.34" style="fill:none;stroke:rgb(0,185,242);stroke-width:75px;"/>
+            <path id="Südtiroler-Platz-Hauptbahnhof:Simmering" serif:id="Südtiroler Platz Hauptbahnhof:Simmering" d="M6943.71,7533.34L9607.75,7533.34" style="fill:none;stroke:rgb(0,185,242);stroke-width:75px;"/>
+            <g id="Simmering:Haidestraße" transform="matrix(0.424268,2.77556e-17,-2.77556e-17,0.424268,5531.48,4337.18)">
+                <path d="M9607.75,7533.34L11357.4,5783.74" style="fill:none;stroke:rgb(0,185,242);stroke-width:176.77px;"/>
+            </g>
+            <g id="Haidestraße:Praterkai" transform="matrix(0.424268,2.77556e-17,-2.77556e-17,0.424268,6273.78,3594.88)">
+                <path d="M9607.75,7533.34L11357.4,5783.74" style="fill:none;stroke:rgb(0,185,242);stroke-width:176.77px;"/>
+            </g>
+            <path id="Praterkai:Stadlau" d="M11092.4,6048.74L11208.1,5932.96L11208.1,4520" style="fill:none;stroke:rgb(0,185,242);stroke-width:75px;"/>
+            <path id="Stadlau:Erzherzog-Karl-Straße" d="M11208.1,4318L11208.1,3383.61" style="fill:none;stroke:rgb(0,185,242);stroke-width:75px;"/>
+            <g id="Erzherzog-Karl-Straße:Hirschstetten" transform="matrix(1.2013,0,0,1,-2256.19,0)">
+                <path d="M11208.1,3383.61L12075,3383.61" style="fill:none;stroke:rgb(0,185,242);stroke-width:67.86px;"/>
+            </g>
+            <g id="Hirschstetten:Aspern-Nord" serif:id="Hirschstetten:Aspern Nord" transform="matrix(1.2013,0,0,1,-1214.82,0)">
+                <path d="M11208.1,3383.61L12075,3383.61" style="fill:none;stroke:rgb(0,185,242);stroke-width:67.86px;"/>
+            </g>
+        </g>
+        <g id="S50">
+            <path id="Purkersdorf-Sanatorium:Weidlingau" d="M536.259,5958.11L1007.93,5958.11" style="fill:none;stroke:rgb(0,185,242);stroke-width:75px;"/>
+            <g id="Weidlingau:Hadersdorf" transform="matrix(1,0,0,1,471.666,0)">
+                <path d="M536.259,5958.11L1007.93,5958.11" style="fill:none;stroke:rgb(0,185,242);stroke-width:75px;"/>
+            </g>
+            <g id="Hadersdorf:Wolf-in-der-Au" serif:id="Hadersdorf:Wolf in der Au" transform="matrix(1,0,0,1,955.666,0)">
+                <path d="M536.259,5958.11L1007.93,5958.11" style="fill:none;stroke:rgb(0,185,242);stroke-width:75px;"/>
+            </g>
+            <g id="Wolf-in-der-Au:Hütteldorf" serif:id="Wolf in der Au:Hütteldorf" transform="matrix(0.870319,0,0,1,1485.47,0)">
+                <path d="M536.259,5958.11L1007.93,5958.11" style="fill:none;stroke:rgb(0,185,242);stroke-width:80.01px;"/>
+            </g>
+            <path id="Hütteldorf:Penzing" d="M2362.69,5958.11L2773.19,5958.11L3361.74,5369.57" style="fill:none;stroke:rgb(0,185,242);stroke-width:75px;"/>
+            <path id="Penzing:Westbahnhof" d="M3361.36,5369.57L4769.79,5369.57" style="fill:none;stroke:rgb(0,185,242);stroke-width:75px;"/>
+        </g>
+        <g id="S45">
+            <g id="Hütteldorf:Penzing1" serif:id="Hütteldorf:Penzing" transform="matrix(1,0,0,1,0.341664,-2.92552)">
+                <path d="M2362.69,5834L2713,5834L3361.02,5185.98" style="fill:none;stroke:rgb(190,214,48);stroke-width:75px;"/>
+            </g>
+            <g id="Penzing:Breitensee" transform="matrix(1,0,0,1.02799,0,-145.076)">
+                <path d="M3361.36,5183.05L3361.36,4538" style="fill:none;stroke:rgb(190,214,48);stroke-width:73.96px;"/>
+            </g>
+            <g id="Breitensee:Ottakring" transform="matrix(1,0,0,1.02799,0,-808.186)">
+                <path d="M3361.36,5183.05L3361.36,4538" style="fill:none;stroke:rgb(190,214,48);stroke-width:73.96px;"/>
+            </g>
+            <g id="Ottakring:Hernals" transform="matrix(1,0,0,1,-16.9917,-11.7863)">
+                <path d="M3381.75,3868.62L3381.75,3359L3499.82,3233.94" style="fill:none;stroke:rgb(190,214,48);stroke-width:75px;"/>
+            </g>
+            <g id="Hernals:Gersthof" transform="matrix(0.983068,0,0,0.983068,-80.7939,-40.6495)">
+                <path d="M3625,3319L4094.63,2849.37" style="fill:none;stroke:rgb(190,214,48);stroke-width:76.29px;"/>
+            </g>
+            <g id="Gersthof:Krottenbachstr." transform="matrix(0.983068,0,0,0.983068,380.886,-502.329)">
+                <path d="M3625,3319L4094.63,2849.37" style="fill:none;stroke:rgb(190,214,48);stroke-width:76.29px;"/>
+            </g>
+            <g id="Krottenbachstr:Oberdöbling" transform="matrix(0.983068,0,0,0.983068,842.565,-964.009)">
+                <path d="M3625,3319L4094.63,2849.37" style="fill:none;stroke:rgb(190,214,48);stroke-width:76.29px;"/>
+            </g>
+            <path id="Oberdöbling:Heiligenstadt" d="M5858,1837.11L4867.86,1837.11" style="fill:none;stroke:rgb(190,214,48);stroke-width:75px;"/>
+            <g id="Heiligenstadt:Handelskai" transform="matrix(1,0,0,1,-244,0)">
+                <path d="M6367,1837.11L6674,1837.11L7207.74,2370.85" style="fill:none;stroke:rgb(190,214,48);stroke-width:75px;"/>
+            </g>
+        </g>
+        <g id="S40">
+            <path id="Franz-Josefs-Bahnhof:Spittelau" d="M5895.15,3139.91L5895.15,2541.96" style="fill:none;stroke:rgb(0,185,242);stroke-width:75px;"/>
+            <path id="Spittelau:Heiligenstadt" d="M5895.15,2541.96L5895.15,1837.11" style="fill:none;stroke:rgb(0,185,242);stroke-width:75px;"/>
+            <path id="Heiligenstadt:Nußdorf" d="M5895.15,1837.11L5895.15,1033L5750.49,888.338" style="fill:none;stroke:rgb(0,185,242);stroke-width:75px;"/>
+        </g>
+        <g id="S7">
+            <g id="Flughafen-Wien:Mannswörth" serif:id="Flughafen Wien:Mannswörth" transform="matrix(1,0,0,1,980.913,980.913)">
+                <path d="M9622.11,7878.11L9949.08,8205.08" style="fill:none;stroke:rgb(0,185,242);stroke-width:75px;"/>
+            </g>
+            <g id="Mannswörth:Schwechat" transform="matrix(1,0,0,1,653.942,653.942)">
+                <path d="M9622.11,7878.11L9949.08,8205.08" style="fill:none;stroke:rgb(0,185,242);stroke-width:75px;"/>
+            </g>
+            <g id="Schwechat:Kaiserebersdorf" transform="matrix(1,0,0,1,326.971,326.971)">
+                <path d="M9622.11,7878.11L9949.08,8205.08" style="fill:none;stroke:rgb(0,185,242);stroke-width:75px;"/>
+            </g>
+            <path id="Kaiserebersdorf:Zentralfriedhof" d="M9622.11,7878.11L9949.08,8205.08" style="fill:none;stroke:rgb(0,185,242);stroke-width:75px;"/>
+            <g id="Zentralfriedhof:Geiselbergstraße" transform="matrix(1.05691,0.0569131,0.0569131,1.05691,-995.992,-995.992)">
+                <path d="M9622.11,7878.11L9070.64,7326.64" style="fill:none;stroke:rgb(0,185,242);stroke-width:67.34px;"/>
+            </g>
+            <g id="Geiselbergstraße:St.-Marx-Vienna-Biocenter" serif:id="Geiselbergstraße:St. Marx Vienna Biocenter" transform="matrix(-0.629252,0,0,-0.629252,14715.6,11874.2)">
+                <path d="M9622.11,7878.11L9070.64,7326.64" style="fill:none;stroke:rgb(0,185,242);stroke-width:119.19px;"/>
+            </g>
+            <g id="St.-Marx-Vienna-Biocenter:Rennweg" serif:id="St. Marx Vienna Biocenter:Rennweg" transform="matrix(-0.629252,0,0,-0.629252,14368.6,11527.2)">
+                <path d="M9622.11,7878.11L9070.64,7326.64" style="fill:none;stroke:rgb(0,185,242);stroke-width:119.19px;"/>
+            </g>
+        </g>
+        <g id="S3-S4" serif:id="S3 S4">
+            <path id="Floridsdorf:Brünner-Straße" serif:id="Floridsdorf:Brünner Straße" d="M8113.36,1293.46L7823.87,1003.97" style="fill:none;stroke:rgb(0,185,242);stroke-width:75px;"/>
+            <g id="Brünner-Straße:Jedlersdorf" serif:id="Brünner Straße:Jedlersdorf" transform="matrix(1,0,0,1,-289.494,-289.494)">
+                <path d="M8113.36,1293.46L7823.87,1003.97" style="fill:none;stroke:rgb(0,185,242);stroke-width:75px;"/>
+            </g>
+            <g id="Jedlersdorf:Strebersdorf" transform="matrix(1,0,0,1,-578.988,-578.988)">
+                <path d="M8113.36,1293.46L7823.87,1003.97" style="fill:none;stroke:rgb(0,185,242);stroke-width:75px;"/>
+            </g>
+        </g>
+        <g id="S2">
+            <path id="Gerasdorf:Leopoldau" d="M10609.3,1134L10609.3,503.071" style="fill:none;stroke:rgb(0,185,242);stroke-width:75px;"/>
+        </g>
+        <g id="__Border__" transform="matrix(1,0,0,1,9,92)">
+            <path d="M4758.89,7279.06L3692.01,7279.34L3068.31,7890.95" style="fill:none;stroke:white;stroke-width:116.67px;"/>
+        </g>
+        <g id="S1">
+            <g id="Liesing:Atzgersdorf" transform="matrix(1,0,0,1,-477.579,567.286)">
+                <path d="M3068.31,7890.95L2590.73,8366.23" style="fill:none;stroke:rgb(0,185,242);stroke-width:75px;"/>
+            </g>
+            <g id="Atzgersdorf:Hetzendorf" transform="matrix(1,0,0,1,0,92)">
+                <path d="M3068.31,7890.95L2590.73,8366.23" style="fill:none;stroke:rgb(0,185,242);stroke-width:75px;"/>
+            </g>
+            <g id="Hetzendorf:Bahnhof-Meidling" serif:id="Hetzendorf:Bahnhof Meidling" transform="matrix(1,0,0,1,9,92)">
+                <path d="M4758.89,7309.06L3664.01,7307.34L3068.31,7890.95" style="fill:none;stroke:rgb(0,185,242);stroke-width:75px;"/>
+            </g>
+            <g id="Matzleinsdorfer-Platz:Bahnhof-Meidling" serif:id="Matzleinsdorfer Platz:Bahnhof Meidling" transform="matrix(1.15912,0,0,1,-758.65,28.2726)">
+                <path d="M4767.89,7371.06L5706.46,7371.06" style="fill:none;stroke:rgb(254,144,181);stroke-width:69.28px;"/>
+            </g>
+            <g id="Südtiroler-Platz-Hauptbahnhof:Matzleinsdorfer-Platz" serif:id="Südtiroler Platz Hauptbahnhof:Matzleinsdorfer Platz" transform="matrix(1.15912,0,0,1,329.26,28.2726)">
+                <path d="M4767.89,7371.06L5706.46,7371.06" style="fill:none;stroke:rgb(254,144,181);stroke-width:69.28px;"/>
+            </g>
+            <g id="Quartier-Belvedere:Südtiroler-Platz-Hauptbahnhof" serif:id="Quartier Belvedere:Südtiroler Platz Hauptbahnhof" transform="matrix(1,0,0,1,14.6514,0)">
+                <path d="M6929.06,7399.34L7494.35,7399.34L7718.21,7161.85" style="fill:none;stroke:rgb(254,144,181);stroke-width:75px;"/>
+            </g>
+            <g id="Rennweg:Quartier-Belvedere" serif:id="Rennweg:Quartier Belvedere" transform="matrix(1,0,0,1,14.6514,0)">
+                <path d="M7718.21,7161.85L8314.25,6565.81" style="fill:none;stroke:rgb(254,144,181);stroke-width:75px;"/>
+            </g>
+            <g id="Landstraße--Bhf.-Wien-Mitte-:Rennweg" serif:id="Landstraße (Bhf. Wien Mitte):Rennweg" transform="matrix(1,0,0,1,14.6514,0)">
+                <path d="M8314.25,6565.81L8314.25,5165.62" style="fill:none;stroke:rgb(254,144,181);stroke-width:75px;"/>
+            </g>
+            <g id="Prater-Stern:Landstraße--Bhf.-Wien-Mitte-" serif:id="Prater-Stern:Landstraße (Bhf. Wien Mitte)" transform="matrix(1,0,0,1,14.6514,0)">
+                <path d="M8314.25,5165.62L8314.25,3821" style="fill:none;stroke:rgb(254,144,181);stroke-width:75px;"/>
+            </g>
+            <g id="Traisengasse:Prater-Stern" transform="matrix(0.495709,0,0,0.495709,4197.63,1751.4)">
+                <path d="M8323.82,3473L7212.13,2361.31" style="fill:none;stroke:rgb(254,144,181);stroke-width:151.3px;"/>
+            </g>
+            <g id="Handelskai:Traisengasse" transform="matrix(0.495709,0,0,0.495709,3646.55,1200.33)">
+                <path d="M8323.82,3473L7212.13,2361.31" style="fill:none;stroke:rgb(254,144,181);stroke-width:151.3px;"/>
+            </g>
+            <path id="Floridsdorf:Handelskai" d="M7221.67,2370.85L8122.65,1469.87" style="fill:none;stroke:rgb(254,144,181);stroke-width:75px;"/>
+            <path id="Siemensstraße:Floridsdorf" d="M9473.81,1293.46L8113.36,1293.46" style="fill:none;stroke:rgb(0,185,242);stroke-width:75px;"/>
+            <path id="Leopoldau:Siemensstraße" d="M10609.3,1293.46L9473.81,1293.46" style="fill:none;stroke:rgb(0,185,242);stroke-width:75px;"/>
+            <path id="Leopoldau:Süßenbrunn" d="M12206.5,1293.46L10609.3,1293.46" style="fill:none;stroke:rgb(0,185,242);stroke-width:75px;"/>
+        </g>
+        <g id="Wiener-Neudorf---Baden" serif:id="Wiener Neudorf / Baden">
+            <g id="Vösendorf-Siebenhirten:Schönbrunner-Allee" serif:id="Vösendorf-Siebenhirten:Schönbrunner Allee" transform="matrix(1.15592,0,0,1.46974,-917.942,-4621.87)">
+                <path d="M5232,9792.52L5232,9559" style="fill:none;stroke:rgb(0,94,153);stroke-width:56.72px;"/>
+            </g>
+            <g id="Schönbrunner-Allee:Neu-Erlaa" serif:id="Schönbrunner Allee:Neu Erlaa" transform="matrix(1.15592,0,0,1.46974,-917.942,-4965.09)">
+                <path d="M5232,9792.52L5232,9559" style="fill:none;stroke:rgb(0,94,153);stroke-width:56.72px;"/>
+            </g>
+            <g id="Neu-Erlaa:Inzersdorf-Lokalbahn" serif:id="Neu Erlaa:Inzersdorf Lokalbahn" transform="matrix(1.15592,0,0,1.46974,-917.942,-5308.3)">
+                <path d="M5232,9792.52L5232,9559" style="fill:none;stroke:rgb(0,94,153);stroke-width:56.72px;"/>
+            </g>
+            <g id="Inzersdorf-Lokalbahn:Gutheil-Schoder-Gasse" serif:id="Inzersdorf Lokalbahn:Gutheil-Schoder-Gasse" transform="matrix(1.09514,0,0,1.09514,-434.606,-927.12)">
+                <path d="M5081.02,8828.11L4915.77,8662.85" style="fill:none;stroke:rgb(0,94,153);stroke-width:68.48px;"/>
+            </g>
+            <g id="Gutheil-Schoder-Gasse:Schöpfwerk" transform="matrix(1.09514,0,0,1.09514,-615.579,-1108.09)">
+                <path d="M5081.02,8828.11L4915.77,8662.85" style="fill:none;stroke:rgb(0,94,153);stroke-width:68.48px;"/>
+            </g>
+            <g id="Schöpfwerk:Schedifkaplatz" transform="matrix(1,0,0,1.12681,0,-678.28)">
+                <path d="M4767.89,7766L4767.89,8038" style="fill:none;stroke:rgb(0,94,153);stroke-width:70.4px;"/>
+            </g>
+            <g id="Schedifkaplatz:Bahnhof-Meidling" serif:id="Schedifkaplatz:Bahnhof Meidling" transform="matrix(1,0,0,1.12681,0,-984.771)">
+                <path d="M4767.89,7766L4767.89,8038" style="fill:none;stroke:rgb(0,94,153);stroke-width:70.4px;"/>
+            </g>
+            <g id="Bahnhof-Meidling:Matzleinsdorfer-Platz1" serif:id="Bahnhof Meidling:Matzleinsdorfer Platz" transform="matrix(1,0,0,1,0,3)">
+                <path d="M4767.89,7305L5855.8,7305" style="fill:none;stroke:rgb(0,94,153);stroke-width:75px;"/>
+            </g>
+            <path id="Matzleinsdorfer-Platz:Karlsplatz" serif:id="Matzleinsdorfer Platz:Karlsplatz" d="M6943.71,6367L5997.54,7313.18L5855.8,7313.18" style="fill:none;stroke:rgb(0,94,153);stroke-width:75px;"/>
+        </g>
+    </g>
+    <g id="U-bahn">
+        <g id="U6">
+            <g id="Siebenhirten:Perfektastraße" transform="matrix(1.10174,0,0,1.08832,-433.163,-580.988)">
+                <path d="M1928,9421L2237.87,9111.13" style="fill:none;stroke:rgb(154,103,54);stroke-width:98.93px;"/>
+            </g>
+            <g id="Perfektastraße:Erlaaer-Straße" serif:id="Perfektastraße:Erlaaer Straße" transform="matrix(1.10174,0,0,1.08832,-98.6708,-911.786)">
+                <path d="M1928,9421L2237.87,9111.13" style="fill:none;stroke:rgb(154,103,54);stroke-width:98.93px;"/>
+            </g>
+            <g id="Erlaaer-Straße:Alterlaa" serif:id="Erlaaer Straße:Alterlaa" transform="matrix(1.10174,0,0,1.08832,242.726,-1249.02)">
+                <path d="M1928,9421L2237.87,9111.13" style="fill:none;stroke:rgb(154,103,54);stroke-width:98.93px;"/>
+            </g>
+            <g id="Alterlaa:Am-Schöpfwerk" serif:id="Alterlaa:Am Schöpfwerk" transform="matrix(1.10174,0,0,1.08832,584.123,-1586.26)">
+                <path d="M1928,9421L2237.87,9111.13" style="fill:none;stroke:rgb(154,103,54);stroke-width:98.93px;"/>
+            </g>
+            <g id="Am-Schöpfwerk:Tscherttegasse" serif:id="Am Schöpfwerk:Tscherttegasse" transform="matrix(1.10174,0,0,1.08832,925.52,-1923.5)">
+                <path d="M1928,9421L2237.87,9111.13" style="fill:none;stroke:rgb(154,103,54);stroke-width:98.93px;"/>
+            </g>
+            <path id="Tscherttegasse:Bahnhof-Meidling" serif:id="Tscherttegasse:Bahnhof Meidling" d="M3391.08,7992.37L3683.46,7699.98L4767.89,7699.98" style="fill:none;stroke:rgb(154,103,54);stroke-width:108.33px;"/>
+            <g id="Bahnhof-Meidling:Niederhofstraße" serif:id="Bahnhof Meidling:Niederhofstraße" transform="matrix(1,0,0,0.996718,0,36.9147)">
+                <path d="M4767.89,7286L4767.89,6829" style="fill:none;stroke:rgb(154,103,54);stroke-width:108.51px;"/>
+            </g>
+            <g id="Niederhofstraße:Längenfeldgasse" transform="matrix(1,0,0,0.996718,0,-418.585)">
+                <path d="M4767.89,7286L4767.89,6829" style="fill:none;stroke:rgb(154,103,54);stroke-width:108.51px;"/>
+            </g>
+            <g id="Längenfeldgasse:Gumpendorfer-Straße" serif:id="Längenfeldgasse:Gumpendorfer Straße" transform="matrix(1,0,0,0.806346,1.8961,268.965)">
+                <path d="M4767.89,7286L4767.89,6829" style="fill:none;stroke:rgb(154,103,54);stroke-width:119.26px;"/>
+            </g>
+            <g id="Gumpendorfer-Straße:Westbahnhof" serif:id="Gumpendorfer Straße:Westbahnhof" transform="matrix(1,0,0,0.806346,1.8961,-99.535)">
+                <path d="M4767.89,7286L4767.89,6829" style="fill:none;stroke:rgb(154,103,54);stroke-width:119.26px;"/>
+            </g>
+            <path id="Westbahnhof:Burggasse-Stadthalle" serif:id="Westbahnhof:Burggasse Stadthalle" d="M4769.79,5042L4769.79,4637.02" style="fill:none;stroke:rgb(154,103,54);stroke-width:108.33px;"/>
+            <g id="Burggasse-Stadthalle:Thaliastraße" serif:id="Burggasse Stadthalle:Thaliastraße" transform="matrix(1,0,0,0.968259,0,-244.94)">
+                <path d="M4769.79,5042L4769.79,4637.02" style="fill:none;stroke:rgb(154,103,54);stroke-width:110.07px;"/>
+            </g>
+            <g id="Thaliastraße:Josefstädter-Straße" serif:id="Thaliastraße:Josefstädter Straße" transform="matrix(1,0,0,0.968259,0,-637.064)">
+                <path d="M4769.79,5042L4769.79,4637.02" style="fill:none;stroke:rgb(154,103,54);stroke-width:110.07px;"/>
+            </g>
+            <g id="Josefstädter-Straße:Alser-Straße" serif:id="Josefstädter Straße:Alser Straße" transform="matrix(1,0,0,1,-21.8873,-8.56705)">
+                <path d="M4791.68,3861.34L4791.68,3632.11L4919.05,3504.74" style="fill:none;stroke:rgb(154,103,54);stroke-width:108.33px;"/>
+            </g>
+            <g id="Alser-Straße:Michelbeuern-AKH" serif:id="Alser Straße:Michelbeuern AKH" transform="matrix(0.912288,0,0,0.912288,429.541,306.658)">
+                <path d="M4897.16,3496.18L5158.65,3234.69" style="fill:none;stroke:rgb(154,103,54);stroke-width:118.75px;"/>
+            </g>
+            <g id="Michelbeuern-AKH:Währinger-Straße-Volksoper" serif:id="Michelbeuern AKH:Währinger Straße Volksoper" transform="matrix(0.912288,0,0,0.912288,668.094,68.1047)">
+                <path d="M4897.16,3496.18L5158.65,3234.69" style="fill:none;stroke:rgb(154,103,54);stroke-width:118.75px;"/>
+            </g>
+            <g id="Währinger-Straße-Volksoper:Nußdorfer-Straße" serif:id="Währinger Straße Volksoper:Nußdorfer Straße" transform="matrix(0.912288,0,0,0.912288,906.647,-170.448)">
+                <path d="M4897.16,3496.18L5158.65,3234.69" style="fill:none;stroke:rgb(154,103,54);stroke-width:118.75px;"/>
+            </g>
+            <g id="Nußdorfer-Straße:Spittelau" serif:id="Nußdorfer Straße:Spittelau" transform="matrix(0.912288,0,0,0.912288,1145.2,-409.001)">
+                <path d="M4897.16,3496.18L5158.65,3234.69" style="fill:none;stroke:rgb(154,103,54);stroke-width:118.75px;"/>
+            </g>
+            <path id="Spittelau:Jägerstraße" d="M6083,2541.96L6440.74,2541.96" style="fill:none;stroke:rgb(154,103,54);stroke-width:108.33px;"/>
+            <g id="Jägerstraße:Dresdner-Straße" serif:id="Jägerstraße:Dresdner Straße" transform="matrix(0.849126,0,0,1,1275.5,0)">
+                <path d="M6083,2541.96L6440.74,2541.96" style="fill:none;stroke:rgb(154,103,54);stroke-width:116.78px;"/>
+            </g>
+            <g id="Dresdner-Straße:Handelskai" serif:id="Dresdner Straße:Handelskai" transform="matrix(1,0,0,1,-104,0)">
+                <path d="M6848.5,2541.96L6954,2541.96L7113.63,2382.33" style="fill:none;stroke:rgb(154,103,54);stroke-width:108.33px;"/>
+            </g>
+            <g id="Handelskai:Neue-Donau" serif:id="Handelskai:Neue Donau" transform="matrix(1.27995,0,0,1.27995,-2120.89,-508.408)">
+                <path d="M7142.88,2249.08L7575.91,1816.05" style="fill:none;stroke:rgb(154,103,54);stroke-width:84.64px;"/>
+            </g>
+            <g id="Neue-Donau:Floridsdorf" serif:id="Neue Donau:Floridsdorf" transform="matrix(1.519,0.237507,0.237507,1.519,-3825.77,-3282.81)">
+                <path d="M7142.88,2249.08L7575.91,1816.05" style="fill:none;stroke:rgb(154,103,54);stroke-width:61.68px;"/>
+            </g>
+        </g>
+        <g id="U3">
+            <g id="Ottakring:Kendlerstraße" transform="matrix(1.83441,0,0,1.83441,-3122.69,-2800.23)">
+                <path d="M3589,3629L3731.69,3771.69" style="fill:none;stroke:rgb(255,125,36);stroke-width:59.06px;"/>
+            </g>
+            <g id="Kendlerstraße:Hütteldorfer-Straße" serif:id="Kendlerstraße:Hütteldorfer Straße" transform="matrix(1.83441,0,0,1.83441,-2860.93,-2538.47)">
+                <path d="M3589,3629L3731.69,3771.69" style="fill:none;stroke:rgb(255,125,36);stroke-width:59.06px;"/>
+            </g>
+            <g id="Hütteldorfer-Straße:Johnstraße" serif:id="Hütteldorfer Straße:Johnstraße" transform="matrix(1.83441,0,0,1.83441,-2599.17,-2276.72)">
+                <path d="M3589,3629L3731.69,3771.69" style="fill:none;stroke:rgb(255,125,36);stroke-width:59.06px;"/>
+            </g>
+            <g id="Johnstraße:Schweglerstraße" transform="matrix(1.83441,0,0,1.83441,-2337.42,-2014.96)">
+                <path d="M3589,3629L3731.69,3771.69" style="fill:none;stroke:rgb(255,125,36);stroke-width:59.06px;"/>
+            </g>
+            <g id="Schweglerstraße:Westbahnhof" transform="matrix(1.83441,0,0,1.83441,-2075.66,-1753.2)">
+                <path d="M3589,3629L3731.69,3771.69" style="fill:none;stroke:rgb(255,125,36);stroke-width:59.06px;"/>
+            </g>
+            <g id="Westbahnhof:Zieglergasse" transform="matrix(1.0709,0,0,1,-338.191,0)">
+                <path d="M4769.79,5165.62L5176,5165.62" style="fill:none;stroke:rgb(255,125,36);stroke-width:104.56px;"/>
+            </g>
+            <g id="Zieglergasse:Neubaugasse" transform="matrix(1.0709,0,0,1,96.8207,0)">
+                <path d="M4769.79,5165.62L5176,5165.62" style="fill:none;stroke:rgb(255,125,36);stroke-width:104.56px;"/>
+            </g>
+            <g id="Neubaugasse:Volkstheater" transform="matrix(1.0709,0,0,1,531.833,0)">
+                <path d="M4769.79,5165.62L5176,5165.62" style="fill:none;stroke:rgb(255,125,36);stroke-width:104.56px;"/>
+            </g>
+            <g id="Volkstheater:Herrengasse" transform="matrix(1.0709,0,0,1,966.845,0)">
+                <path d="M4769.79,5165.62L5176,5165.62" style="fill:none;stroke:rgb(255,125,36);stroke-width:104.56px;"/>
+            </g>
+            <g id="Herrengasse:Stephansplatz" transform="matrix(1.0709,0,0,1,1401.86,0)">
+                <path d="M4769.79,5165.62L5176,5165.62" style="fill:none;stroke:rgb(255,125,36);stroke-width:104.56px;"/>
+            </g>
+            <g id="Stephansplatz:Stubentor" transform="matrix(1.10291,0,0,1,1684.22,0)">
+                <path d="M4769.79,5165.62L5176,5165.62" style="fill:none;stroke:rgb(255,125,36);stroke-width:102.91px;"/>
+            </g>
+            <g id="Stubentor:Landstraße--Bhf.-Wien-Mitte-" serif:id="Stubentor:Landstraße (Bhf. Wien Mitte)" transform="matrix(1.10291,0,0,1,2132.23,0)">
+                <path d="M4769.79,5165.62L5176,5165.62" style="fill:none;stroke:rgb(255,125,36);stroke-width:102.91px;"/>
+            </g>
+            <g id="Landstraße--Bhf.-Wien-Mitte-:Rochusgasse" serif:id="Landstraße (Bhf. Wien Mitte):Rochusgasse" transform="matrix(1.20855,0,0,1.20855,-1752.28,-1077.32)">
+                <path d="M8402,5165.62L8568.28,5331.9" style="fill:none;stroke:rgb(255,125,36);stroke-width:89.64px;"/>
+            </g>
+            <g id="Rochusgasse:Kardinal-Nagl-Platz" transform="matrix(1.20855,0,0,1.20855,-1551.32,-876.358)">
+                <path d="M8402,5165.62L8568.28,5331.9" style="fill:none;stroke:rgb(255,125,36);stroke-width:89.64px;"/>
+            </g>
+            <g id="Kardinal-Nagl-Platz:Schlachthausgasse" transform="matrix(1.20855,0,0,1.20855,-1350.36,-675.4)">
+                <path d="M8402,5165.62L8568.28,5331.9" style="fill:none;stroke:rgb(255,125,36);stroke-width:89.64px;"/>
+            </g>
+            <g id="Schlachthausgasse:Erdberg" transform="matrix(1.20855,0,0,1.20855,-1149.4,-474.442)">
+                <path d="M8402,5165.62L8568.28,5331.9" style="fill:none;stroke:rgb(255,125,36);stroke-width:89.64px;"/>
+            </g>
+            <g id="Erdberg:Gasometer" transform="matrix(1.20855,0,0,1.20855,-948.446,-273.484)">
+                <path d="M8402,5165.62L8568.28,5331.9" style="fill:none;stroke:rgb(255,125,36);stroke-width:89.64px;"/>
+            </g>
+            <g id="Gasometer:Zippererstraße" transform="matrix(1.20855,0,0,1.20855,-747.488,-72.5259)">
+                <path d="M8402,5165.62L8568.28,5331.9" style="fill:none;stroke:rgb(255,125,36);stroke-width:89.64px;"/>
+            </g>
+            <g id="Zippererstraße:Enkplatz" transform="matrix(0.506675,0,0,0.710852,5266.41,2581.18)">
+                <path d="M8568.28,6061.66L8568.28,5331.9" style="fill:none;stroke:rgb(255,125,36);stroke-width:175.51px;"/>
+            </g>
+            <g id="Enkplatz:Simmering" transform="matrix(0.506675,0,0,0.710852,5266.41,3099.93)">
+                <path d="M8568.28,6061.66L8568.28,5331.9" style="fill:none;stroke:rgb(255,125,36);stroke-width:175.51px;"/>
+            </g>
+        </g>
+        <g id="U4">
+            <g id="Hütteldorf:Ober-St.-Veit" serif:id="Hütteldorf:Ober St. Veit" transform="matrix(0.840668,0,0,1,376.453,0)">
+                <path d="M2362.69,6266.55L2771.41,6266.55" style="fill:none;stroke:rgb(0,171,79);stroke-width:117.27px;"/>
+            </g>
+            <g id="Ober-St.-Veit:Unter-St.-Veit" serif:id="Ober St. Veit:Unter St. Veit" transform="matrix(0.840668,0,0,1,720.053,0)">
+                <path d="M2362.69,6266.55L2771.41,6266.55" style="fill:none;stroke:rgb(0,171,79);stroke-width:117.27px;"/>
+            </g>
+            <g id="Unter-St.-Veit:Braunschweiggasse" serif:id="Unter St. Veit:Braunschweiggasse" transform="matrix(0.840668,0,0,1,1063.65,0)">
+                <path d="M2362.69,6266.55L2771.41,6266.55" style="fill:none;stroke:rgb(0,171,79);stroke-width:117.27px;"/>
+            </g>
+            <g id="Braunschweiggasse:Hietzing" transform="matrix(0.840668,0,0,1,1407.25,0)">
+                <path d="M2362.69,6266.55L2771.41,6266.55" style="fill:none;stroke:rgb(0,171,79);stroke-width:117.27px;"/>
+            </g>
+            <g id="Hietzing:Schönbrunn" transform="matrix(0.840668,0,0,1,1750.85,0)">
+                <path d="M2362.69,6266.55L2771.41,6266.55" style="fill:none;stroke:rgb(0,171,79);stroke-width:117.27px;"/>
+            </g>
+            <g id="Schönbrunn:Meidling-Hauptstraße" serif:id="Schönbrunn:Meidling Hauptstraße" transform="matrix(0.840668,0,0,1,2094.46,0)">
+                <path d="M2362.69,6266.55L2771.41,6266.55" style="fill:none;stroke:rgb(0,171,79);stroke-width:117.27px;"/>
+            </g>
+            <g id="Meidling-Hauptstraße:Längenfeldgasse" serif:id="Meidling Hauptstraße:Längenfeldgasse" transform="matrix(0.840668,0,0,1,2438.06,0)">
+                <path d="M2362.69,6266.55L2771.41,6266.55" style="fill:none;stroke:rgb(0,171,79);stroke-width:117.27px;"/>
+            </g>
+            <g id="Längenfeldgasse:Margaretengürtel" transform="matrix(1.1317,0,0,1,-627.94,0)">
+                <path d="M4767.89,6266.55L5248.8,6266.55" style="fill:none;stroke:rgb(0,171,79);stroke-width:101.45px;"/>
+            </g>
+            <g id="Margaretengürtel:Pilgramgasse" transform="matrix(1.1317,0,0,1,-83.7009,0)">
+                <path d="M4767.89,6266.55L5248.8,6266.55" style="fill:none;stroke:rgb(0,171,79);stroke-width:101.45px;"/>
+            </g>
+            <g id="Pilgramgasse:Kettenbrückengasse" transform="matrix(1.1317,0,0,1,460.538,0)">
+                <path d="M4767.89,6266.55L5248.8,6266.55" style="fill:none;stroke:rgb(0,171,79);stroke-width:101.45px;"/>
+            </g>
+            <g id="Kettenbrückengasse:Karlsplatz" transform="matrix(1.1317,0,0,1,1004.78,0)">
+                <path d="M4767.89,6266.55L5248.8,6266.55" style="fill:none;stroke:rgb(0,171,79);stroke-width:101.45px;"/>
+            </g>
+            <path id="Karlsplatz:Stadtpark" d="M6944.85,6266.55L7462,6266.55L7779.99,5948.55" style="fill:none;stroke:rgb(0,171,79);stroke-width:108.33px;"/>
+            <path id="Stadtpark:Landstraße--Bhf.-Wien-Mitte-" serif:id="Stadtpark:Landstraße (Bhf. Wien Mitte)" d="M7779.99,5948.55L8018.32,5700.28L8018.32,5183.05" style="fill:none;stroke:rgb(0,171,79);stroke-width:108.33px;"/>
+            <path id="Landstraße--Bhf.-Wien-Mitte-:Schwedenplatz" serif:id="Landstraße (Bhf. Wien Mitte):Schwedenplatz" d="M8018.32,5183.05L8018.32,4723L7664.2,4353.13" style="fill:none;stroke:rgb(0,171,79);stroke-width:108.33px;"/>
+            <g id="Schwedenplatz:Schottenring" transform="matrix(0.991743,0,0,0.991743,63.2807,87.7582)">
+                <path d="M7664.2,4300.88L7016.3,3652.99" style="fill:none;stroke:rgb(0,171,79);stroke-width:109.24px;"/>
+            </g>
+            <g id="Schottenring:Roßauer-Lände" serif:id="Schottenring:Roßauer Lände" transform="matrix(1.12167,0,0,1.12167,-854.353,-451.482)">
+                <path d="M7021.65,3710.59L6736.74,3425.67" style="fill:none;stroke:rgb(0,171,79);stroke-width:96.58px;"/>
+            </g>
+            <g id="Roßauer-Lände:Friedensbrücke" serif:id="Roßauer Lände:Friedensbrücke" transform="matrix(1.12167,0,0,1.12167,-1173.93,-771.063)">
+                <path d="M7021.65,3710.59L6736.74,3425.67" style="fill:none;stroke:rgb(0,171,79);stroke-width:96.58px;"/>
+            </g>
+            <path id="Friedensbrücke:Spittelau" d="M6382.49,3071.42L6014.92,2703.85L6014.92,2452.96" style="fill:none;stroke:rgb(0,171,79);stroke-width:108.33px;"/>
+            <path id="Spittelau:Heiligenstadt1" serif:id="Spittelau:Heiligenstadt" d="M6014.92,2452.96L6014.92,1837.11" style="fill:none;stroke:rgb(0,171,79);stroke-width:108.33px;"/>
+        </g>
+        <g id="U2">
+            <g id="Karlsplatz:Volkstheater" transform="matrix(1,0,0,1,6.76333,-9.09495e-13)">
+                <path d="M6944.85,6113L6509.84,6113L6068.06,5699.23L6068.06,5165.62" style="fill:none;stroke:rgb(160,101,170);stroke-width:108.33px;"/>
+            </g>
+            <g id="Volkstheater:Rathaus" transform="matrix(1,0,0,1,-5.12875,-58.2067)">
+                <path d="M6391.23,4341.01L6079.95,4652.28L6079.95,5223.83" style="fill:none;stroke:rgb(160,101,170);stroke-width:108.33px;"/>
+            </g>
+            <g id="Rathaus:Schottentor" transform="matrix(0.822378,0,0,0.822378,1374.13,470.663)">
+                <path d="M6473,4257L6094.49,4635.51" style="fill:none;stroke:rgb(160,101,170);stroke-width:131.73px;"/>
+            </g>
+            <g id="Schottentor:Schottenring" transform="matrix(0.822378,0,0,0.822378,1685.4,159.387)">
+                <path d="M6473,4257L6094.49,4635.51" style="fill:none;stroke:rgb(160,101,170);stroke-width:131.73px;"/>
+            </g>
+            <g id="Schottenring:Taborstraße" transform="matrix(1.88419,0,0,1,-6401.09,272.249)">
+                <path d="M7117,3388L7466,3388" style="fill:none;stroke:rgb(160,101,170);stroke-width:71.82px;"/>
+            </g>
+            <g id="Taborstraße:Prater-Stern" transform="matrix(1.88419,0,0,1,-5743.51,272.249)">
+                <path d="M7117,3388L7466,3388" style="fill:none;stroke:rgb(160,101,170);stroke-width:71.82px;"/>
+            </g>
+            <path id="Prater-Stern:Messe-Prater" serif:id="Prater-Stern:Messe Prater" d="M8967.84,4043.36L8581.88,3661.39L8323.82,3660.39" style="fill:none;stroke:rgb(160,101,170);stroke-width:108.33px;"/>
+            <g id="Messe-Prater:Krieau" serif:id="Messe Prater:Krieau" transform="matrix(1.21825,0,0,1.21825,-1493.31,-405.702)">
+                <path d="M8587,3652L8894.33,3959.33" style="fill:none;stroke:rgb(160,101,170);stroke-width:88.93px;"/>
+            </g>
+            <g id="Krieau:Stadion" transform="matrix(1.21825,0,0,1.21825,-1118.9,-31.2941)">
+                <path d="M8587,3652L8894.33,3959.33" style="fill:none;stroke:rgb(160,101,170);stroke-width:88.93px;"/>
+            </g>
+            <g id="Stadion:Donaumarina" transform="matrix(1.21825,0,0,1.21825,-744.489,343.114)">
+                <path d="M8587,3652L8894.33,3959.33" style="fill:none;stroke:rgb(160,101,170);stroke-width:88.93px;"/>
+            </g>
+            <g id="Donaumarina:Donaustadtbrücke" transform="matrix(1,0,0,1,188.254,182.605)">
+                <path d="M9902.81,4983.71L10052.6,5133.49L10513.7,4672.34" style="fill:none;stroke:rgb(160,101,170);stroke-width:108.33px;"/>
+            </g>
+            <g id="Donaustadtbrücke:Stadlau" transform="matrix(1.62008,0,0,1.62008,-6978.58,-2720.23)">
+                <path d="M11206,4384L10917.8,4672.23" style="fill:none;stroke:rgb(160,101,170);stroke-width:66.87px;"/>
+            </g>
+            <g id="Stadlau:Hardeggasse" transform="matrix(1,0,0,1,-1.13687e-13,17.2469)">
+                <path d="M11208.1,4346L11366,4188.07L11745.7,4188.07" style="fill:none;stroke:rgb(160,101,170);stroke-width:108.33px;"/>
+            </g>
+            <path id="Hardeggasse:Donauspital" d="M11745.7,4205.32L12159.3,4205.32" style="fill:none;stroke:rgb(160,101,170);stroke-width:108.33px;"/>
+            <g id="Donauspital:Aspernstraße" transform="matrix(0.939471,0,0,0.939471,448.782,541.753)">
+                <path d="M12812.8,3551.78L12465,3899.6" style="fill:none;stroke:rgb(160,101,170);stroke-width:115.31px;"/>
+            </g>
+            <g id="Aspernstraße:Hausfeldstraße" transform="matrix(0.939471,0,0,0.939471,775.549,214.986)">
+                <path d="M12812.8,3551.78L12465,3899.6" style="fill:none;stroke:rgb(160,101,170);stroke-width:115.31px;"/>
+            </g>
+            <g id="Hausfeldstraße:Aspern-Nord" serif:id="Hausfeldstraße:Aspern Nord" transform="matrix(1,0,0,1,-1.13687e-13,39.7821)">
+                <path d="M13286.3,3512L12812.8,3512" style="fill:none;stroke:rgb(160,101,170);stroke-width:108.33px;"/>
+            </g>
+            <path id="Aspern-Nord:Seestadt" serif:id="Aspern Nord:Seestadt" d="M13483,4041.93L13481,3551.78L13286.3,3551.78" style="fill:none;stroke:rgb(160,101,170);stroke-width:108.33px;"/>
+        </g>
+        <g id="U1">
+            <g id="Oberlaa:Neulaa" transform="matrix(1.62132,0,0,1.62132,-5399.64,-5951.01)">
+                <path d="M8514,9682L8359.88,9527.88" style="fill:none;stroke:rgb(255,46,23);stroke-width:66.82px;"/>
+            </g>
+            <g id="Neulaa:Alaudagasse" transform="matrix(1.62132,0,0,1.62132,-5649.51,-6200.89)">
+                <path d="M8514,9682L8359.88,9527.88" style="fill:none;stroke:rgb(255,46,23);stroke-width:66.82px;"/>
+            </g>
+            <g id="Alaudagasse:Altes-Landgut" serif:id="Alaudagasse:Altes Landgut" transform="matrix(1.62132,0,0,1.62132,-5899.39,-6450.76)">
+                <path d="M8514,9682L8359.88,9527.88" style="fill:none;stroke:rgb(255,46,23);stroke-width:66.82px;"/>
+            </g>
+            <g id="Altes-Landgut:Troststraße" serif:id="Altes Landgut:Troststraße" transform="matrix(1.62132,0,0,1.62132,-6149.26,-6700.64)">
+                <path d="M8514,9682L8359.88,9527.88" style="fill:none;stroke:rgb(255,46,23);stroke-width:66.82px;"/>
+            </g>
+            <g id="Troststraße:Reumannplatz" transform="matrix(1.62132,0,0,1.62132,-6399.13,-6950.51)">
+                <path d="M8514,9682L8359.88,9527.88" style="fill:none;stroke:rgb(255,46,23);stroke-width:66.82px;"/>
+            </g>
+            <g id="Reumannplatz:Keplerplatz" transform="matrix(1.36308,0,0,1.36308,-4450.32,-4700.06)">
+                <path d="M8514,9682L8359.05,9525.76L8359.05,9384.87" style="fill:none;stroke:rgb(255,46,23);stroke-width:79.48px;"/>
+            </g>
+            <path id="Keplerplatz:Südtiroler-Platz-Hauptbahnhof" serif:id="Keplerplatz:Südtiroler Platz Hauptbahnhof" d="M6944.85,8092.24L6944.85,7748" style="fill:none;stroke:rgb(255,46,23);stroke-width:108.33px;"/>
+            <g id="Südtiroler-Platz-Hauptbahnhof:Taubstummengasse" serif:id="Südtiroler Platz Hauptbahnhof:Taubstummengasse" transform="matrix(1,0,0,1.22513,-1.13649,-2642.86)">
+                <path d="M6944.85,8092.24L6944.85,7748" style="fill:none;stroke:rgb(255,46,23);stroke-width:96.88px;"/>
+            </g>
+            <g id="Taubstummengasse:Karlsplatz" transform="matrix(1,0,0,1.22513,-1.13649,-3064.6)">
+                <path d="M6944.85,8092.24L6944.85,7748" style="fill:none;stroke:rgb(255,46,23);stroke-width:96.88px;"/>
+            </g>
+            <g id="Karlsplatz:Stephansplatz" transform="matrix(2.17134,0,0,2.66019,-8134.8,-15392.4)">
+                <path d="M6944.85,8092.24L6944.85,7748" style="fill:none;stroke:rgb(255,46,23);stroke-width:44.62px;"/>
+            </g>
+            <g id="Stephansplatz:Schwedenplatz" transform="matrix(1,0,0,1,2.932,-92.3105)">
+                <path d="M7637.7,4417L6941.92,5112.78" style="fill:none;stroke:rgb(255,46,23);stroke-width:108.33px;"/>
+            </g>
+            <g id="Schwedenplatz:Nestroyplatz" transform="matrix(1.43413,0,0,1.43413,-3316.99,-1877.46)">
+                <path d="M7640.63,4324.69L7843.53,4121.79" style="fill:none;stroke:rgb(255,46,23);stroke-width:75.54px;"/>
+            </g>
+            <g id="Nestroyplatz:Prater-Stern" transform="matrix(1.43413,0,0,1.43413,-3026,-2168.45)">
+                <path d="M7640.63,4324.69L7843.53,4121.79" style="fill:none;stroke:rgb(255,46,23);stroke-width:75.54px;"/>
+            </g>
+            <g id="Prater-Stern:Vorgartenstraße" transform="matrix(1.39632,-0.220032,-0.220032,1.39632,-1494.56,-614.738)">
+                <path d="M7640.63,4324.69L7843.53,4121.79" style="fill:none;stroke:rgb(255,46,23);stroke-width:92.1px;"/>
+            </g>
+            <g id="Vorgartenstraße:Donauinsel" transform="matrix(1.12739,0,0,1.12739,-63.39,-1460.85)">
+                <path d="M7640.63,4324.69L7843.53,4121.79" style="fill:none;stroke:rgb(255,46,23);stroke-width:96.09px;"/>
+            </g>
+            <g id="Donauinsel:Kaisermühlen-VIC" serif:id="Donauinsel:Kaisermühlen VIC" transform="matrix(1.12739,0,0,1.12739,165.36,-1689.6)">
+                <path d="M7640.63,4324.69L7843.53,4121.79" style="fill:none;stroke:rgb(255,46,23);stroke-width:96.09px;"/>
+            </g>
+            <g id="Kaisermühlen-VIC:Alte-Donau" serif:id="Kaisermühlen VIC:Alte Donau" transform="matrix(1.12739,0,0,1.12739,394.111,-1918.35)">
+                <path d="M7640.63,4324.69L7843.53,4121.79" style="fill:none;stroke:rgb(255,46,23);stroke-width:96.09px;"/>
+            </g>
+            <g id="Alte-Donau:Kagran" serif:id="Alte Donau:Kagran" transform="matrix(1.12739,0,0,1.12739,622.861,-2147.1)">
+                <path d="M7640.63,4324.69L7843.53,4121.79" style="fill:none;stroke:rgb(255,46,23);stroke-width:96.09px;"/>
+            </g>
+            <g id="Kagran:Kagraner-Platz" serif:id="Kagran:Kagraner Platz" transform="matrix(1.12739,0,0,1.12739,851.611,-2375.85)">
+                <path d="M7640.63,4324.69L7843.53,4121.79" style="fill:none;stroke:rgb(255,46,23);stroke-width:96.09px;"/>
+            </g>
+            <g id="Kagraner-Platz:Rennbahnweg" serif:id="Kagraner Platz:Rennbahnweg" transform="matrix(1.12739,0,0,1.12739,1080.36,-2604.6)">
+                <path d="M7640.63,4324.69L7843.53,4121.79" style="fill:none;stroke:rgb(255,46,23);stroke-width:96.09px;"/>
+            </g>
+            <g id="Rennbahnweg:Aderklaaer-Straße" serif:id="Rennbahnweg:Aderklaaer Straße" transform="matrix(1.12739,0,0,1.12739,1309.11,-2833.35)">
+                <path d="M7640.63,4324.69L7843.53,4121.79" style="fill:none;stroke:rgb(255,46,23);stroke-width:96.09px;"/>
+            </g>
+            <g id="Aderklaaer-Straße:Großfeldsiedlung" serif:id="Aderklaaer Straße:Großfeldsiedlung" transform="matrix(1.12739,0,0,1.12739,1537.86,-3062.11)">
+                <path d="M7640.63,4324.69L7843.53,4121.79" style="fill:none;stroke:rgb(255,46,23);stroke-width:96.09px;"/>
+            </g>
+            <g id="Großfeldsiedlung:Leopoldau" transform="matrix(1.12739,0,0,1.12739,1766.61,-3290.86)">
+                <path d="M7640.63,4324.69L7843.53,4121.79" style="fill:none;stroke:rgb(255,46,23);stroke-width:96.09px;"/>
+            </g>
+        </g>
+    </g>
+    <g id="Stations">
+        <g id="Siebenhirten" transform="matrix(0.889764,0,0,0.889764,-68.7217,1265.27)">
+            <circle cx="1977.74" cy="9448.4" r="70.548" style="stroke:black;stroke-width:27.22px;"/>
+        </g>
+        <g id="Perfektastraße" transform="matrix(0.889764,0,0,0.889764,272.675,928.034)">
+            <circle cx="1977.74" cy="9448.4" r="70.548" style="stroke:black;stroke-width:27.22px;"/>
+        </g>
+        <g id="Erlaaer-Straße" serif:id="Erlaaer Straße" transform="matrix(0.889764,0,0,0.889764,607.168,597.235)">
+            <circle cx="1977.74" cy="9448.4" r="70.548" style="stroke:black;stroke-width:27.22px;"/>
+        </g>
+        <g id="Alterlaa" transform="matrix(0.889764,0,0,0.889764,948.565,259.997)">
+            <circle cx="1977.74" cy="9448.4" r="70.548" style="stroke:black;stroke-width:27.22px;"/>
+        </g>
+        <g id="Am-Schöpfwerk" serif:id="Am Schöpfwerk" transform="matrix(0.889764,0,0,0.889764,1289.96,-77.242)">
+            <circle cx="1977.74" cy="9448.4" r="70.548" style="stroke:black;stroke-width:27.22px;"/>
+        </g>
+        <g id="Tscherttegasse" transform="matrix(0.889764,0,0,0.889764,1631.36,-414.481)">
+            <circle cx="1977.74" cy="9448.4" r="70.548" style="stroke:black;stroke-width:27.22px;"/>
+        </g>
+        <g id="Niederhofstraße" transform="matrix(0.889764,0,0,0.889764,3008.17,-1563.35)">
+            <circle cx="1977.74" cy="9448.4" r="70.548" style="stroke:black;stroke-width:27.22px;"/>
+        </g>
+        <g id="Schönbrunn" transform="matrix(0.889764,0,0,0.889764,2320.97,-2140.3)">
+            <circle cx="1977.74" cy="9448.4" r="70.548" style="stroke:black;stroke-width:27.22px;"/>
+        </g>
+        <g id="Meidling-Hauptstraße" serif:id="Meidling Hauptstraße" transform="matrix(0.889764,0,0,0.889764,2664.57,-2140.3)">
+            <circle cx="1977.74" cy="9448.4" r="70.548" style="stroke:black;stroke-width:27.22px;"/>
+        </g>
+        <g id="Margaretengürtel" transform="matrix(0.889764,0,0,0.889764,3552.41,-2140.3)">
+            <circle cx="1977.74" cy="9448.4" r="70.548" style="stroke:black;stroke-width:27.22px;"/>
+        </g>
+        <g id="Zieglergasse" transform="matrix(0.889764,0,0,0.889764,3445.08,-3241.22)">
+            <circle cx="1977.74" cy="9448.4" r="70.548" style="stroke:black;stroke-width:27.22px;"/>
+        </g>
+        <g id="Schweglerstraße" transform="matrix(0.889764,0,0,0.889764,2748.31,-3502.98)">
+            <circle cx="1977.74" cy="9448.4" r="70.548" style="stroke:black;stroke-width:27.22px;"/>
+        </g>
+        <g id="Burggasse-Stadthalle" serif:id="Burggasse Stadthalle" transform="matrix(0.889764,0,0,0.889764,3010.07,-3769.83)">
+            <circle cx="1977.74" cy="9448.4" r="70.548" style="stroke:black;stroke-width:27.22px;"/>
+        </g>
+        <g id="Thaliastraße" transform="matrix(0.889764,0,0,0.889764,3010.07,-4161.95)">
+            <circle cx="1977.74" cy="9448.4" r="70.548" style="stroke:black;stroke-width:27.22px;"/>
+        </g>
+        <g id="Josefstädter-Straße" serif:id="Josefstädter Straße" transform="matrix(0.889764,0,0,0.889764,3010.07,-4554.07)">
+            <circle cx="1977.74" cy="9448.4" r="70.548" style="stroke:black;stroke-width:27.22px;"/>
+        </g>
+        <g id="Alser-Straße" serif:id="Alser Straße" transform="matrix(0.889764,0,0,0.889764,3137.44,-4910.67)">
+            <circle cx="1977.74" cy="9448.4" r="70.548" style="stroke:black;stroke-width:27.22px;"/>
+        </g>
+        <g id="Michelbeuern-AKH" serif:id="Michelbeuern AKH" transform="matrix(0.889764,0,0,0.889764,3375.99,-5149.22)">
+            <circle cx="1977.74" cy="9448.4" r="70.548" style="stroke:black;stroke-width:27.22px;"/>
+        </g>
+        <g id="Währinger-Straße-Volksoper" serif:id="Währinger Straße Volksoper" transform="matrix(0.889764,0,0,0.889764,3614.54,-5387.78)">
+            <circle cx="1977.74" cy="9448.4" r="70.548" style="stroke:black;stroke-width:27.22px;"/>
+        </g>
+        <g id="Nußdorfer-Straße" serif:id="Nußdorfer Straße" transform="matrix(0.889764,0,0,0.889764,3853.1,-5626.33)">
+            <circle cx="1977.74" cy="9448.4" r="70.548" style="stroke:black;stroke-width:27.22px;"/>
+        </g>
+        <g id="Johnstraße" transform="matrix(0.889764,0,0,0.889764,2486.55,-3764.74)">
+            <circle cx="1977.74" cy="9448.4" r="70.548" style="stroke:black;stroke-width:27.22px;"/>
+        </g>
+        <g id="Hütteldorfer-Straße" serif:id="Hütteldorfer Straße" transform="matrix(0.889764,0,0,0.889764,2224.79,-4026.5)">
+            <circle cx="1977.74" cy="9448.4" r="70.548" style="stroke:black;stroke-width:27.22px;"/>
+        </g>
+        <g id="Breitensee" transform="matrix(0.889764,0,0,0.889764,1601.64,-3886.9)">
+            <circle cx="1977.74" cy="9448.4" r="70.548" style="stroke:black;stroke-width:27.22px;"/>
+        </g>
+        <g id="Kendlerstraße" transform="matrix(0.889764,0,0,0.889764,1963.04,-4288.25)">
+            <circle cx="1977.74" cy="9448.4" r="70.548" style="stroke:black;stroke-width:27.22px;"/>
+        </g>
+        <g id="Neubaugasse" transform="matrix(0.889764,0,0,0.889764,3880.09,-3241.22)">
+            <circle cx="1977.74" cy="9448.4" r="70.548" style="stroke:black;stroke-width:27.22px;"/>
+        </g>
+        <g id="Volkstheater" transform="matrix(0.889764,0,0,0.889764,4315.1,-3241.22)">
+            <circle cx="1977.74" cy="9448.4" r="70.548" style="stroke:black;stroke-width:27.22px;"/>
+        </g>
+        <g id="Herrengasse" transform="matrix(0.889764,0,0,0.889764,4750.12,-3241.22)">
+            <circle cx="1977.74" cy="9448.4" r="70.548" style="stroke:black;stroke-width:27.22px;"/>
+        </g>
+        <g id="Rathaus" transform="matrix(0.889764,0,0,0.889764,4626.38,-4124.04)">
+            <circle cx="1977.74" cy="9448.4" r="70.548" style="stroke:black;stroke-width:27.22px;"/>
+        </g>
+        <g id="Schottentor" transform="matrix(0.889764,0,0,0.889764,4937.66,-4435.32)">
+            <circle cx="1977.74" cy="9448.4" r="70.548" style="stroke:black;stroke-width:27.22px;"/>
+        </g>
+        <g id="Roßauer-Lände" serif:id="Roßauer Lände" transform="matrix(0.889764,0,0,0.889764,4942.35,-5015.84)">
+            <circle cx="1977.74" cy="9448.4" r="70.548" style="stroke:black;stroke-width:27.22px;"/>
+        </g>
+        <g id="Friedensbrücke" transform="matrix(0.889764,0,0,0.889764,4622.77,-5335.42)">
+            <circle cx="1977.74" cy="9448.4" r="70.548" style="stroke:black;stroke-width:27.22px;"/>
+        </g>
+        <g id="Jägerstraße" transform="matrix(0.889764,0,0,0.889764,4681.02,-5864.88)">
+            <circle cx="1977.74" cy="9448.4" r="70.548" style="stroke:black;stroke-width:27.22px;"/>
+        </g>
+        <g id="Dresdner-Straße" serif:id="Dresdner Straße" transform="matrix(0.889764,0,0,0.889764,4984.78,-5864.88)">
+            <circle cx="1977.74" cy="9448.4" r="70.548" style="stroke:black;stroke-width:27.22px;"/>
+        </g>
+        <g id="Traisengasse" transform="matrix(0.889764,0,0,0.889764,6013.02,-5484.92)">
+            <circle cx="1977.74" cy="9448.4" r="70.548" style="stroke:black;stroke-width:27.22px;"/>
+        </g>
+        <g id="Neue-Donau" serif:id="Neue Donau" transform="matrix(0.889764,0,0,0.889764,5798.72,-6576.82)">
+            <circle cx="1977.74" cy="9448.4" r="70.548" style="stroke:black;stroke-width:27.22px;"/>
+        </g>
+        <g id="Brünner-Straße" serif:id="Brünner Straße" transform="matrix(0.889764,0,0,0.889764,6064.15,-7402.88)">
+            <circle cx="1977.74" cy="9448.4" r="70.548" style="stroke:black;stroke-width:27.22px;"/>
+        </g>
+        <g id="Jedlersdorf" transform="matrix(0.889764,0,0,0.889764,5774.65,-7692.38)">
+            <circle cx="1977.74" cy="9448.4" r="70.548" style="stroke:black;stroke-width:27.22px;"/>
+        </g>
+        <g id="Strebersdorf" transform="matrix(0.889764,0,0,0.889764,5485.16,-7981.87)">
+            <circle cx="1977.74" cy="9448.4" r="70.548" style="stroke:black;stroke-width:27.22px;"/>
+        </g>
+        <g id="Nußdorf" transform="matrix(0.889764,0,0,0.889764,3990.77,-7518.51)">
+            <circle cx="1977.74" cy="9448.4" r="70.548" style="stroke:black;stroke-width:27.22px;"/>
+        </g>
+        <g id="Franz-Josefs-Bahnhof" transform="matrix(0.889764,0,0,0.889764,4135.43,-5266.93)">
+            <circle cx="1977.74" cy="9448.4" r="70.548" style="stroke:black;stroke-width:27.22px;"/>
+        </g>
+        <g id="Taborstraße" transform="matrix(0.889764,0,0,0.889764,5906.51,-4746.6)">
+            <circle cx="1977.74" cy="9448.4" r="70.548" style="stroke:black;stroke-width:27.22px;"/>
+        </g>
+        <g id="Nestroyplatz" transform="matrix(0.889764,0,0,0.889764,6171.9,-4373.14)">
+            <circle cx="1977.74" cy="9448.4" r="70.548" style="stroke:black;stroke-width:27.22px;"/>
+        </g>
+        <g id="Vorgartenstraße" transform="matrix(0.889764,0,0,0.889764,6790.85,-4992.09)">
+            <circle cx="1977.74" cy="9448.4" r="70.548" style="stroke:black;stroke-width:27.22px;"/>
+        </g>
+        <g id="Donauinsel" transform="matrix(0.889764,0,0,0.889764,7019.6,-5220.84)">
+            <circle cx="1977.74" cy="9448.4" r="70.548" style="stroke:black;stroke-width:27.22px;"/>
+        </g>
+        <g id="Kaisermühlen-VIC" serif:id="Kaisermühlen VIC" transform="matrix(0.889764,0,0,0.889764,7248.35,-5449.6)">
+            <circle cx="1977.74" cy="9448.4" r="70.548" style="stroke:black;stroke-width:27.22px;"/>
+        </g>
+        <g id="Alte-Donau" serif:id="Alte Donau" transform="matrix(0.889764,0,0,0.889764,7477.1,-5678.35)">
+            <circle cx="1977.74" cy="9448.4" r="70.548" style="stroke:black;stroke-width:27.22px;"/>
+        </g>
+        <g id="Kagran" transform="matrix(0.889764,0,0,0.889764,7705.85,-5907.1)">
+            <circle cx="1977.74" cy="9448.4" r="70.548" style="stroke:black;stroke-width:27.22px;"/>
+        </g>
+        <g id="Kagraner-Platz" serif:id="Kagraner Platz" transform="matrix(0.889764,0,0,0.889764,7934.6,-6135.85)">
+            <circle cx="1977.74" cy="9448.4" r="70.548" style="stroke:black;stroke-width:27.22px;"/>
+        </g>
+        <g id="Rennbahnweg" transform="matrix(0.889764,0,0,0.889764,8163.35,-6364.6)">
+            <circle cx="1977.74" cy="9448.4" r="70.548" style="stroke:black;stroke-width:27.22px;"/>
+        </g>
+        <g id="Aderklaaer-Straße" serif:id="Aderklaaer Straße" transform="matrix(0.889764,0,0,0.889764,8392.1,-6593.35)">
+            <circle cx="1977.74" cy="9448.4" r="70.548" style="stroke:black;stroke-width:27.22px;"/>
+        </g>
+        <g id="Großfeldsiedlung" transform="matrix(0.889764,0,0,0.889764,8620.85,-6822.1)">
+            <circle cx="1977.74" cy="9448.4" r="70.548" style="stroke:black;stroke-width:27.22px;"/>
+        </g>
+        <g id="Siemensstraße" transform="matrix(0.889764,0,0,0.889764,7714.09,-7113.39)">
+            <circle cx="1977.74" cy="9448.4" r="70.548" style="stroke:black;stroke-width:27.22px;"/>
+        </g>
+        <g id="Gerasdorf" transform="matrix(0.889764,0,0,0.889764,8849.6,-7903.77)">
+            <circle cx="1977.74" cy="9448.4" r="70.548" style="stroke:black;stroke-width:27.22px;"/>
+        </g>
+        <g id="Süßenbrunn" transform="matrix(0.889764,0,0,0.889764,10446.8,-7113.39)">
+            <circle cx="1977.74" cy="9448.4" r="70.548" style="stroke:black;stroke-width:27.22px;"/>
+        </g>
+        <g id="Messe-Prater" serif:id="Messe Prater" transform="matrix(0.889764,0,0,0.889764,7208.12,-4363.49)">
+            <circle cx="1977.74" cy="9448.4" r="70.548" style="stroke:black;stroke-width:27.22px;"/>
+        </g>
+        <g id="Krieau" transform="matrix(0.889764,0,0,0.889764,7582.52,-3989.08)">
+            <circle cx="1977.74" cy="9448.4" r="70.548" style="stroke:black;stroke-width:27.22px;"/>
+        </g>
+        <g id="Stadion" transform="matrix(0.889764,0,0,0.889764,7956.93,-3614.67)">
+            <circle cx="1977.74" cy="9448.4" r="70.548" style="stroke:black;stroke-width:27.22px;"/>
+        </g>
+        <g id="Donaumarina" transform="matrix(0.889764,0,0,0.889764,8331.34,-3240.26)">
+            <circle cx="1977.74" cy="9448.4" r="70.548" style="stroke:black;stroke-width:27.22px;"/>
+        </g>
+        <g id="Donaustadtbrücke" transform="matrix(0.889764,0,0,0.889764,8942.27,-3557.71)">
+            <circle cx="1977.74" cy="9448.4" r="70.548" style="stroke:black;stroke-width:27.22px;"/>
+        </g>
+        <g id="Hardeggasse" transform="matrix(0.889764,0,0,0.889764,9985.99,-4201.53)">
+            <circle cx="1977.74" cy="9448.4" r="70.548" style="stroke:black;stroke-width:27.22px;"/>
+        </g>
+        <g id="Donauspital" transform="matrix(0.889764,0,0,0.889764,10399.6,-4201.53)">
+            <circle cx="1977.74" cy="9448.4" r="70.548" style="stroke:black;stroke-width:27.22px;"/>
+        </g>
+        <g id="Aspernstraße" transform="matrix(0.889764,0,0,0.889764,10726.3,-4528.3)">
+            <circle cx="1977.74" cy="9448.4" r="70.548" style="stroke:black;stroke-width:27.22px;"/>
+        </g>
+        <g id="Erzherzog-Karl-Straße" transform="matrix(0.889764,0,0,0.889764,9448.41,-5023.24)">
+            <circle cx="1977.74" cy="9448.4" r="70.548" style="stroke:black;stroke-width:27.22px;"/>
+        </g>
+        <g id="Hirschstetten" transform="matrix(0.889764,0,0,0.889764,10489.8,-5023.24)">
+            <circle cx="1977.74" cy="9448.4" r="70.548" style="stroke:black;stroke-width:27.22px;"/>
+        </g>
+        <g id="Hausfeldstraße" transform="matrix(0.889764,0,0,0.889764,11053.1,-4855.06)">
+            <circle cx="1977.74" cy="9448.4" r="70.548" style="stroke:black;stroke-width:27.22px;"/>
+        </g>
+        <g id="Seestadt" transform="matrix(0.889764,0,0,0.889764,11723.3,-4364.91)">
+            <circle cx="1977.74" cy="9448.4" r="70.548" style="stroke:black;stroke-width:27.22px;"/>
+        </g>
+        <g id="Praterkai" transform="matrix(0.889764,0,0,0.889764,9332.63,-2358.1)">
+            <circle cx="1977.74" cy="9448.4" r="70.548" style="stroke:black;stroke-width:27.22px;"/>
+        </g>
+        <g id="Haidestraße" transform="matrix(0.889764,0,0,0.889764,8590.33,-1615.8)">
+            <circle cx="1977.74" cy="9448.4" r="70.548" style="stroke:black;stroke-width:27.22px;"/>
+        </g>
+        <g id="Enkplatz" transform="matrix(0.889764,0,0,0.889764,7848.03,-1516.72)">
+            <circle cx="1977.74" cy="9448.4" r="70.548" style="stroke:black;stroke-width:27.22px;"/>
+        </g>
+        <g id="St.-Marx-Vienna-Biocenter" serif:id="St. Marx Vienna Biocenter" transform="matrix(0.889764,0,0,0.889764,6901.14,-1489.99)">
+            <circle cx="1977.74" cy="9448.4" r="70.548" style="stroke:black;stroke-width:27.22px;"/>
+        </g>
+        <g id="Geiselbergstraße" transform="matrix(0.889764,0,0,0.889764,7248.15,-1142.98)">
+            <circle cx="1977.74" cy="9448.4" r="70.548" style="stroke:black;stroke-width:27.22px;"/>
+        </g>
+        <g id="Zentralfriedhof" transform="matrix(0.889764,0,0,0.889764,7862.39,-528.739)">
+            <circle cx="1977.74" cy="9448.4" r="70.548" style="stroke:black;stroke-width:27.22px;"/>
+        </g>
+        <g id="Kaiserebersdorf" transform="matrix(0.889764,0,0,0.889764,8189.36,-201.768)">
+            <circle cx="1977.74" cy="9448.4" r="70.548" style="stroke:black;stroke-width:27.22px;"/>
+        </g>
+        <g id="Schwechat" transform="matrix(0.889764,0,0,0.889764,8516.33,125.203)">
+            <circle cx="1977.74" cy="9448.4" r="70.548" style="stroke:black;stroke-width:27.22px;"/>
+        </g>
+        <g id="Mannswörth" transform="matrix(0.889764,0,0,0.889764,8843.3,452.174)">
+            <circle cx="1977.74" cy="9448.4" r="70.548" style="stroke:black;stroke-width:27.22px;"/>
+        </g>
+        <g id="Flughafen-Wien" serif:id="Flughafen Wien" transform="matrix(0.889764,0,0,0.889764,9170.27,779.146)">
+            <circle cx="1977.74" cy="9448.4" r="70.548" style="stroke:black;stroke-width:27.22px;"/>
+        </g>
+        <g id="Kledering" transform="matrix(0.889764,0,0,0.889764,7599.51,476.384)">
+            <circle cx="1977.74" cy="9448.4" r="70.548" style="stroke:black;stroke-width:27.22px;"/>
+        </g>
+        <g id="Grillgasse" transform="matrix(0.889764,0,0,0.889764,7014.49,-108.638)">
+            <circle cx="1977.74" cy="9448.4" r="70.548" style="stroke:black;stroke-width:27.22px;"/>
+        </g>
+        <g id="Blumental" transform="matrix(0.889764,0,0,0.889764,4167.38,664.039)">
+            <circle cx="1977.74" cy="9448.4" r="70.548" style="stroke:black;stroke-width:27.22px;"/>
+        </g>
+        <g id="Vösendorf-Siebenhirten" transform="matrix(0.889764,0,0,0.889764,3370.12,1363.72)">
+            <circle cx="1977.74" cy="9448.4" r="70.548" style="stroke:black;stroke-width:27.22px;"/>
+        </g>
+        <g id="Schönbrunner-Allee" serif:id="Schönbrunner Allee" transform="matrix(0.889764,0,0,0.889764,3370.12,1020.51)">
+            <circle cx="1977.74" cy="9448.4" r="70.548" style="stroke:black;stroke-width:27.22px;"/>
+        </g>
+        <g id="Neu-Erlaa" serif:id="Neu Erlaa" transform="matrix(0.889764,0,0,0.889764,3370.12,677.296)">
+            <circle cx="1977.74" cy="9448.4" r="70.548" style="stroke:black;stroke-width:27.22px;"/>
+        </g>
+        <g id="Inzersdorf-Lokalbahn" serif:id="Inzersdorf Lokalbahn" transform="matrix(0.889764,0,0,0.889764,3370.12,334.082)">
+            <circle cx="1977.74" cy="9448.4" r="70.548" style="stroke:black;stroke-width:27.22px;"/>
+        </g>
+        <g id="Gutheil-Schoder-Gasse" transform="matrix(0.889764,0,0,0.889764,3189.14,153.109)">
+            <circle cx="1977.74" cy="9448.4" r="70.548" style="stroke:black;stroke-width:27.22px;"/>
+        </g>
+        <g id="Schöpfwerk" transform="matrix(0.889764,0,0,0.889764,3008.17,-27.864)">
+            <circle cx="1977.74" cy="9448.4" r="70.548" style="stroke:black;stroke-width:27.22px;"/>
+        </g>
+        <g id="Schedifkaplatz" transform="matrix(0.889764,0,0,0.889764,3008.17,-334.355)">
+            <circle cx="1977.74" cy="9448.4" r="70.548" style="stroke:black;stroke-width:27.22px;"/>
+        </g>
+        <g id="Quartier-Belvedere" serif:id="Quartier Belvedere" transform="matrix(0.889764,0,0,0.889764,5973.14,-1245)">
+            <circle cx="1977.74" cy="9448.4" r="70.548" style="stroke:black;stroke-width:27.22px;"/>
+        </g>
+        <g id="Zippererstraße" transform="matrix(0.889764,0,0,0.889764,7848.03,-2035.47)">
+            <circle cx="1977.74" cy="9448.4" r="70.548" style="stroke:black;stroke-width:27.22px;"/>
+        </g>
+        <g id="Gasometer" transform="matrix(0.889764,0,0,0.889764,7647.07,-2236.43)">
+            <circle cx="1977.74" cy="9448.4" r="70.548" style="stroke:black;stroke-width:27.22px;"/>
+        </g>
+        <g id="Erdberg" transform="matrix(0.889764,0,0,0.889764,7446.11,-2437.39)">
+            <circle cx="1977.74" cy="9448.4" r="70.548" style="stroke:black;stroke-width:27.22px;"/>
+        </g>
+        <g id="Schlachthausgasse" transform="matrix(0.889764,0,0,0.889764,7245.15,-2638.35)">
+            <circle cx="1977.74" cy="9448.4" r="70.548" style="stroke:black;stroke-width:27.22px;"/>
+        </g>
+        <g id="Kardinal-Nagl-Platz" transform="matrix(0.889764,0,0,0.889764,7044.19,-2839.31)">
+            <circle cx="1977.74" cy="9448.4" r="70.548" style="stroke:black;stroke-width:27.22px;"/>
+        </g>
+        <g id="Rochusgasse" transform="matrix(0.889764,0,0,0.889764,6843.24,-3040.26)">
+            <circle cx="1977.74" cy="9448.4" r="70.548" style="stroke:black;stroke-width:27.22px;"/>
+        </g>
+        <g id="Hernals" transform="matrix(0.889764,0,0,0.889764,1723.1,-5184.69)">
+            <circle cx="1977.74" cy="9448.4" r="70.548" style="stroke:black;stroke-width:27.22px;"/>
+        </g>
+        <g id="Gersthof" transform="matrix(0.889764,0,0,0.889764,2184.78,-5646.37)">
+            <circle cx="1977.74" cy="9448.4" r="70.548" style="stroke:black;stroke-width:27.22px;"/>
+        </g>
+        <g id="Krottenbachstr." transform="matrix(0.889764,0,0,0.889764,2646.46,-6108.05)">
+            <circle cx="1977.74" cy="9448.4" r="70.548" style="stroke:black;stroke-width:27.22px;"/>
+        </g>
+        <g id="Oberdöbling" transform="matrix(0.889764,0,0,0.889764,3108.14,-6569.73)">
+            <circle cx="1977.74" cy="9448.4" r="70.548" style="stroke:black;stroke-width:27.22px;"/>
+        </g>
+        <g id="Stubentor" transform="matrix(0.889764,0,0,0.889764,5633.14,-3241.22)">
+            <circle cx="1977.74" cy="9448.4" r="70.548" style="stroke:black;stroke-width:27.22px;"/>
+        </g>
+        <g id="Stadtpark" transform="matrix(0.889764,0,0,0.889764,6020.27,-2458.29)">
+            <circle cx="1977.74" cy="9448.4" r="70.548" style="stroke:black;stroke-width:27.22px;"/>
+        </g>
+        <g id="Gumpendorfer-Straße" serif:id="Gumpendorfer Straße" transform="matrix(0.889764,0,0,0.889764,3010.07,-2631.35)">
+            <circle cx="1977.74" cy="9448.4" r="70.548" style="stroke:black;stroke-width:27.22px;"/>
+        </g>
+        <g id="Pilgramgasse" transform="matrix(0.889764,0,0,0.889764,4096.65,-2140.3)">
+            <circle cx="1977.74" cy="9448.4" r="70.548" style="stroke:black;stroke-width:27.22px;"/>
+        </g>
+        <g id="Kettenbrückengasse" transform="matrix(0.889764,0,0,0.889764,4640.89,-2140.3)">
+            <circle cx="1977.74" cy="9448.4" r="70.548" style="stroke:black;stroke-width:27.22px;"/>
+        </g>
+        <g id="Taubstummengasse" transform="matrix(0.889764,0,0,0.889764,5185.13,-1570.61)">
+            <circle cx="1977.74" cy="9448.4" r="70.548" style="stroke:black;stroke-width:27.22px;"/>
+        </g>
+        <g id="Keplerplatz" transform="matrix(0.889764,0,0,0.889764,5185.13,-314.608)">
+            <circle cx="1977.74" cy="9448.4" r="70.548" style="stroke:black;stroke-width:27.22px;"/>
+        </g>
+        <g id="Reumannplatz" transform="matrix(0.889764,0,0,0.889764,5395.2,90.4049)">
+            <circle cx="1977.74" cy="9448.4" r="70.548" style="stroke:black;stroke-width:27.22px;"/>
+        </g>
+        <g id="Troststraße" transform="matrix(0.889764,0,0,0.889764,5645.08,340.279)">
+            <circle cx="1977.74" cy="9448.4" r="70.548" style="stroke:black;stroke-width:27.22px;"/>
+        </g>
+        <g id="Altes-Landgut" serif:id="Altes Landgut" transform="matrix(0.889764,0,0,0.889764,5894.95,590.153)">
+            <circle cx="1977.74" cy="9448.4" r="70.548" style="stroke:black;stroke-width:27.22px;"/>
+        </g>
+        <g id="Alaudagasse" transform="matrix(0.889764,0,0,0.889764,6144.83,840.027)">
+            <circle cx="1977.74" cy="9448.4" r="70.548" style="stroke:black;stroke-width:27.22px;"/>
+        </g>
+        <g id="Neulaa" transform="matrix(0.889764,0,0,0.889764,6394.7,1089.9)">
+            <circle cx="1977.74" cy="9448.4" r="70.548" style="stroke:black;stroke-width:27.22px;"/>
+        </g>
+        <g id="Oberlaa" transform="matrix(0.889764,0,0,0.889764,6644.57,1339.78)">
+            <circle cx="1977.74" cy="9448.4" r="70.548" style="stroke:black;stroke-width:27.22px;"/>
+        </g>
+        <g id="Braunschweiggasse" transform="matrix(0.889764,0,0,0.889764,1633.77,-2140.3)">
+            <circle cx="1977.74" cy="9448.4" r="70.548" style="stroke:black;stroke-width:27.22px;"/>
+        </g>
+        <g id="Unter-St.-Veit" serif:id="Unter St. Veit" transform="matrix(0.889764,0,0,0.889764,1290.17,-2140.3)">
+            <circle cx="1977.74" cy="9448.4" r="70.548" style="stroke:black;stroke-width:27.22px;"/>
+        </g>
+        <g id="Ober-St.-Veit" serif:id="Ober St. Veit" transform="matrix(0.889764,0,0,0.889764,946.568,-2140.3)">
+            <circle cx="1977.74" cy="9448.4" r="70.548" style="stroke:black;stroke-width:27.22px;"/>
+        </g>
+        <g id="Wolf-in-der-Au" serif:id="Wolf in der Au" transform="matrix(0.889764,0,0,0.889764,192.468,-2448.73)">
+            <circle cx="1977.74" cy="9448.4" r="70.548" style="stroke:black;stroke-width:27.22px;"/>
+        </g>
+        <g id="Hadersdorf" transform="matrix(0.889764,0,0,0.889764,-280.378,-2448.73)">
+            <circle cx="1977.74" cy="9448.4" r="70.548" style="stroke:black;stroke-width:27.22px;"/>
+        </g>
+        <g id="Weidlingau" transform="matrix(0.889764,0,0,0.889764,-751.797,-2448.73)">
+            <circle cx="1977.74" cy="9448.4" r="70.548" style="stroke:black;stroke-width:27.22px;"/>
+        </g>
+        <g id="Purkersdorf-Sanatorium" transform="matrix(0.889764,0,0,0.889764,-1223.46,-2448.73)">
+            <circle cx="1977.74" cy="9448.4" r="70.548" style="stroke:black;stroke-width:27.22px;"/>
+        </g>
+        <g id="Speising" transform="matrix(0.889764,0,0,0.889764,1507.19,-1306.93)">
+            <circle cx="1977.74" cy="9448.4" r="70.548" style="stroke:black;stroke-width:27.22px;"/>
+        </g>
+        <g id="Hetzendorf" transform="matrix(0.889764,0,0,0.889764,1308.59,-423.9)">
+            <circle cx="1977.74" cy="9448.4" r="70.548" style="stroke:black;stroke-width:27.22px;"/>
+        </g>
+        <g id="Atzgersdorf" transform="matrix(0.889764,0,0,0.889764,831.01,51.3864)">
+            <circle cx="1977.74" cy="9448.4" r="70.548" style="stroke:black;stroke-width:27.22px;"/>
+        </g>
+        <g id="Liesing" transform="matrix(0.889764,0,0,0.889764,353.431,526.673)">
+            <circle cx="1977.74" cy="9448.4" r="70.548" style="stroke:black;stroke-width:27.22px;"/>
+        </g>
+        <g id="Hietzing" transform="matrix(0.889764,0,0,0.889764,1977.37,-2140.3)">
+            <circle cx="1977.74" cy="9448.4" r="70.548" style="stroke:black;stroke-width:27.22px;"/>
+        </g>
+        <path id="Bahnhof-Meidling" serif:id="Bahnhof Meidling" d="M4705.12,7306.59C4705.34,7272.13 4733.38,7244.23 4767.89,7244.23C4802.54,7244.23 4830.66,7272.35 4830.66,7307L4830.66,7759.69C4830.66,7794.33 4802.54,7822.46 4767.89,7822.46C4733.25,7822.46 4705.12,7794.33 4705.12,7759.69L4705.12,7307L4705.12,7306.59Z" style="stroke:black;stroke-width:24.22px;"/>
+        <g id="Hütteldorf" transform="matrix(1,0,0,1,-2405.2,-1512.46)">
+            <path d="M4705.12,7306.59C4705.34,7272.13 4733.38,7244.23 4767.89,7244.23C4802.54,7244.23 4830.66,7272.35 4830.66,7307L4830.66,7759.69C4830.66,7794.33 4802.54,7822.46 4767.89,7822.46C4733.25,7822.46 4705.12,7794.33 4705.12,7759.69L4705.12,7307L4705.12,7306.59Z" style="stroke:black;stroke-width:24.22px;"/>
+        </g>
+        <g id="Südtiroler-Platz-Hauptbahnhof" serif:id="Südtiroler Platz Hauptbahnhof" transform="matrix(1,0,0,1,2175.82,0)">
+            <path d="M4705.12,7306.59C4705.34,7272.13 4733.38,7244.23 4767.89,7244.23C4802.54,7244.23 4830.66,7272.35 4830.66,7307L4830.66,7759.69C4830.66,7794.33 4802.54,7822.46 4767.89,7822.46C4733.25,7822.46 4705.12,7794.33 4705.12,7759.69L4705.12,7307L4705.12,7306.59Z" style="stroke:black;stroke-width:24.22px;"/>
+        </g>
+        <g id="Landstraße--Bhf.-Wien-Mitte-" serif:id="Landstraße (Bhf. Wien Mitte)" transform="matrix(6.12323e-17,1,-0.939064,5.75011e-17,15165.7,397.731)">
+            <path d="M4705.12,7179.17C4705.34,7144.72 4733.38,7116.81 4767.89,7116.81C4802.54,7116.81 4830.66,7144.93 4830.66,7179.58L4830.66,7759.69C4830.66,7794.33 4802.54,7822.46 4767.89,7822.46C4733.25,7822.46 4705.12,7794.33 4705.12,7759.69L4705.12,7179.58L4705.12,7179.17Z" style="stroke:black;stroke-width:24.96px;"/>
+        </g>
+        <g id="Handelskai" transform="matrix(6.12323e-17,1,-1,6.12323e-17,14593.5,-2397.04)">
+            <path d="M4705.12,7234.17C4705.34,7199.72 4733.38,7171.81 4767.89,7171.81C4802.54,7171.81 4830.66,7199.93 4830.66,7234.58L4830.66,7666.69C4830.66,7701.33 4802.54,7729.46 4767.89,7729.46C4733.25,7729.46 4705.12,7701.33 4705.12,7666.69L4705.12,7234.58L4705.12,7234.17Z" style="stroke:black;stroke-width:24.22px;"/>
+        </g>
+        <g id="Längenfeldgasse" transform="matrix(1,0,0,1,1.8961,-1141.18)">
+            <path d="M4705.12,7306.59C4705.34,7272.13 4733.38,7244.23 4767.89,7244.23C4802.54,7244.23 4830.66,7272.35 4830.66,7307L4830.66,7508.46C4830.66,7543.1 4802.54,7571.23 4767.89,7571.23C4733.25,7571.23 4705.12,7543.1 4705.12,7508.46L4705.12,7307L4705.12,7306.59Z" style="stroke:black;stroke-width:24.22px;"/>
+        </g>
+        <g id="Simmering" transform="matrix(1,0,0,1,4839.85,75.7513)">
+            <path d="M4705.12,7306.59C4705.34,7272.13 4733.38,7244.23 4767.89,7244.23C4802.54,7244.23 4830.66,7272.35 4830.66,7307L4830.66,7508.46C4830.66,7543.1 4802.54,7571.23 4767.89,7571.23C4733.25,7571.23 4705.12,7543.1 4705.12,7508.46L4705.12,7307L4705.12,7306.59Z" style="stroke:black;stroke-width:24.22px;"/>
+        </g>
+        <g id="Stadlau" transform="matrix(1,0,0,1,6440.22,-2988.85)">
+            <path d="M4705.12,7306.59C4705.34,7272.13 4733.38,7244.23 4767.89,7244.23C4802.54,7244.23 4830.66,7272.35 4830.66,7307L4830.66,7508.46C4830.66,7543.1 4802.54,7571.23 4767.89,7571.23C4733.25,7571.23 4705.12,7543.1 4705.12,7508.46L4705.12,7307L4705.12,7306.59Z" style="stroke:black;stroke-width:24.22px;"/>
+        </g>
+        <g id="Aspern-Nord" serif:id="Aspern Nord" transform="matrix(1,0,0,1,8518.4,-3955.98)">
+            <path d="M4705.12,7306.59C4705.34,7272.13 4733.38,7244.23 4767.89,7244.23C4802.54,7244.23 4830.66,7272.35 4830.66,7307L4830.66,7582.99C4830.66,7617.64 4802.54,7645.76 4767.89,7645.76C4733.25,7645.76 4705.12,7617.64 4705.12,7582.99L4705.12,7307L4705.12,7306.59Z" style="stroke:black;stroke-width:24.22px;"/>
+        </g>
+        <g id="Schwedenplatz" transform="matrix(1,0,0,1,2869.8,-3083.04)">
+            <path d="M4705.12,7306.59C4705.34,7272.13 4733.38,7244.23 4767.89,7244.23C4802.54,7244.23 4830.66,7272.35 4830.66,7307L4830.66,7508.46C4830.66,7543.1 4802.54,7571.23 4767.89,7571.23C4733.25,7571.23 4705.12,7543.1 4705.12,7508.46L4705.12,7307L4705.12,7306.59Z" style="stroke:black;stroke-width:24.22px;"/>
+        </g>
+        <g id="Schottenring" transform="matrix(1,0,0,1,2240.76,-3697.14)">
+            <path d="M4705.12,7306.59C4705.34,7272.13 4733.38,7244.23 4767.89,7244.23C4802.54,7244.23 4830.66,7272.35 4830.66,7307L4830.66,7508.46C4830.66,7543.1 4802.54,7571.23 4767.89,7571.23C4733.25,7571.23 4705.12,7543.1 4705.12,7508.46L4705.12,7307L4705.12,7306.59Z" style="stroke:black;stroke-width:24.22px;"/>
+        </g>
+        <g id="Stephansplatz" transform="matrix(1,0,0,1.08257,2176.96,-2902.83)">
+            <path d="M4705.12,7306.59C4705.34,7272.13 4733.38,7244.23 4767.89,7244.23C4802.54,7244.23 4830.66,7272.35 4830.66,7307L4830.66,7508.46C4830.66,7543.1 4802.54,7571.23 4767.89,7571.23C4733.25,7571.23 4705.12,7543.1 4705.12,7508.46L4705.12,7307L4705.12,7306.59Z" style="stroke:black;stroke-width:23.24px;"/>
+        </g>
+        <g id="Leopoldau" transform="matrix(1,0,0,1,5841.43,-6165.05)">
+            <path d="M4705.12,7306.59C4705.34,7272.13 4733.38,7244.23 4767.89,7244.23C4802.54,7244.23 4830.66,7272.35 4830.66,7307L4830.66,7508.46C4830.66,7543.1 4802.54,7571.23 4767.89,7571.23C4733.25,7571.23 4705.12,7543.1 4705.12,7508.46L4705.12,7307L4705.12,7306.59Z" style="stroke:black;stroke-width:24.22px;"/>
+        </g>
+        <g id="Ottakring" transform="matrix(6.12323e-17,1,-1,6.12323e-17,10772.5,-911.058)">
+            <path d="M4705.12,7306.59C4705.34,7272.13 4733.38,7244.23 4767.89,7244.23C4802.54,7244.23 4830.66,7272.35 4830.66,7307L4830.66,7508.46C4830.66,7543.1 4802.54,7571.23 4767.89,7571.23C4733.25,7571.23 4705.12,7543.1 4705.12,7508.46L4705.12,7307L4705.12,7306.59Z" style="stroke:black;stroke-width:24.22px;"/>
+        </g>
+        <g id="Spittelau" transform="matrix(6.12323e-17,1,-1,6.12323e-17,13381.2,-2225.93)">
+            <path d="M4705.12,7306.59C4705.34,7272.13 4733.38,7244.23 4767.89,7244.23C4802.54,7244.23 4830.66,7272.35 4830.66,7307L4830.66,7508.46C4830.66,7543.1 4802.54,7571.23 4767.89,7571.23C4733.25,7571.23 4705.12,7543.1 4705.12,7508.46L4705.12,7307L4705.12,7306.59Z" style="stroke:black;stroke-width:24.22px;"/>
+        </g>
+        <g id="Heiligenstadt" transform="matrix(6.12323e-17,1,-1,6.12323e-17,13394.8,-2930.78)">
+            <path d="M4705.12,7306.59C4705.34,7272.13 4733.38,7244.23 4767.89,7244.23C4802.54,7244.23 4830.66,7272.35 4830.66,7307L4830.66,7508.46C4830.66,7543.1 4802.54,7571.23 4767.89,7571.23C4733.25,7571.23 4705.12,7543.1 4705.12,7508.46L4705.12,7307L4705.12,7306.59Z" style="stroke:black;stroke-width:24.22px;"/>
+        </g>
+        <g id="Rennweg" transform="matrix(6.12323e-17,1,-1,6.12323e-17,15736.6,1801.96)">
+            <path d="M4705.12,7306.59C4705.34,7272.13 4733.38,7244.23 4767.89,7244.23C4802.54,7244.23 4830.66,7272.35 4830.66,7307L4830.66,7508.46C4830.66,7543.1 4802.54,7571.23 4767.89,7571.23C4733.25,7571.23 4705.12,7543.1 4705.12,7508.46L4705.12,7307L4705.12,7306.59Z" style="stroke:black;stroke-width:24.22px;"/>
+        </g>
+        <g id="Matzleinsdorfer-Platz" serif:id="Matzleinsdorfer Platz" transform="matrix(1,0,0,1,1087.91,-38.0185)">
+            <path d="M4705.12,7306.59C4705.34,7272.13 4733.38,7244.23 4767.89,7244.23C4802.54,7244.23 4830.66,7272.35 4830.66,7307L4830.66,7567.71C4830.66,7602.35 4802.54,7630.48 4767.89,7630.48C4733.25,7630.48 4705.12,7602.35 4705.12,7567.71L4705.12,7307L4705.12,7306.59Z" style="stroke:black;stroke-width:24.22px;"/>
+        </g>
+        <g id="Karlsplatz" transform="matrix(1,0,0,1.19676,2176.96,-2672.19)">
+            <path d="M4705.12,7306.59C4705.34,7272.13 4733.38,7244.23 4767.89,7244.23C4802.54,7244.23 4830.66,7272.35 4830.66,7307L4830.66,7567.71C4830.66,7602.35 4802.54,7630.48 4767.89,7630.48C4733.25,7630.48 4705.12,7602.35 4705.12,7567.71L4705.12,7307L4705.12,7306.59Z" style="stroke:black;stroke-width:21.96px;"/>
+        </g>
+        <g id="Prater-Stern" transform="matrix(1,0,0,1,3555.92,-3736.39)">
+            <path d="M4705.12,7194.59C4705.34,7160.13 4733.38,7132.23 4767.89,7132.23C4802.54,7132.23 4830.66,7160.35 4830.66,7195L4830.66,7567.71C4830.66,7602.35 4802.54,7630.48 4767.89,7630.48C4733.25,7630.48 4705.12,7602.35 4705.12,7567.71L4705.12,7307L4705.12,7194.59Z" style="stroke:black;stroke-width:24.22px;"/>
+        </g>
+        <g id="Westbahnhof" transform="matrix(1,0,0,1,1.8961,-2243.54)">
+            <path d="M4705.12,7306.59C4705.34,7272.13 4733.38,7244.23 4767.89,7244.23C4802.54,7244.23 4830.66,7272.35 4830.66,7307L4830.66,7646.97C4830.66,7681.62 4802.54,7709.74 4767.89,7709.74C4733.25,7709.74 4705.12,7681.62 4705.12,7646.97L4705.12,7307L4705.12,7306.59Z" style="stroke:black;stroke-width:24.22px;"/>
+        </g>
+        <g id="Penzing" transform="matrix(1,0,0,1,-1406.53,-2140.65)">
+            <path d="M4705.12,7306.59C4705.34,7272.13 4733.38,7244.23 4767.89,7244.23C4802.54,7244.23 4830.66,7272.35 4830.66,7307L4830.66,7567.71C4830.66,7602.35 4802.54,7630.48 4767.89,7630.48C4733.25,7630.48 4705.12,7602.35 4705.12,7567.71L4705.12,7307L4705.12,7306.59Z" style="stroke:black;stroke-width:24.22px;"/>
+        </g>
+        <g id="Floridsdorf" transform="matrix(1,0,0,1,3345.47,-6043.36)">
+            <path d="M4705.12,7306.59C4705.34,7272.13 4733.38,7244.23 4767.89,7244.23C4802.54,7244.23 4830.66,7272.35 4830.66,7307L4830.66,7567.71C4830.66,7602.35 4802.54,7630.48 4767.89,7630.48C4733.25,7630.48 4705.12,7602.35 4705.12,7567.71L4705.12,7307L4705.12,7306.59Z" style="stroke:black;stroke-width:24.22px;"/>
+        </g>
+    </g>
+    <g id="Map">
+        <g transform="matrix(1,0,0,1,158,-215.878)">
+            <rect x="1924" y="6395" width="174.85" height="174.85" style="fill:rgb(0,171,79);"/>
+            <text x="1931.53px" y="6527.16px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:125px;fill:white;">U4</text>
+        </g>
+        <g transform="matrix(1,0,0,1,4042.22,-4829.86)">
+            <rect x="1924" y="6395" width="174.85" height="174.85" style="fill:rgb(0,171,79);"/>
+            <text x="1931.53px" y="6527.16px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:125px;fill:white;">U4</text>
+        </g>
+        <g transform="matrix(1,0,0,1,6287.74,-5342.88)">
+            <rect x="1924" y="6395" width="174.85" height="174.85" style="fill:rgb(154,103,54);"/>
+            <text x="1931.53px" y="6527.16px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:125px;fill:white;">U6</text>
+        </g>
+        <g transform="matrix(1,0,0,1,8795.74,-5342.88)">
+            <rect x="1924" y="6395" width="174.85" height="174.85" style="fill:rgb(255,46,23);"/>
+            <text x="1931.53px" y="6527.16px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:125px;fill:white;">U1</text>
+        </g>
+        <g transform="matrix(1,0,0,1,6585.85,3276.98)">
+            <rect x="1924" y="6395" width="174.85" height="174.85" style="fill:rgb(255,46,23);"/>
+            <text x="1931.53px" y="6527.16px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:125px;fill:white;">U1</text>
+        </g>
+        <g transform="matrix(1,0,0,1,7821.73,1154.17)">
+            <rect x="1924" y="6395" width="174.85" height="174.85" style="fill:rgb(255,125,36);"/>
+            <text x="1931.53px" y="6527.16px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:125px;fill:white;">U3</text>
+        </g>
+        <g transform="matrix(1,0,0,1,5127.86,-382.425)">
+            <rect x="1924" y="6395" width="174.85" height="174.85" style="fill:rgb(160,101,170);"/>
+            <text x="1931.53px" y="6527.16px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:125px;fill:white;">U2</text>
+        </g>
+        <g transform="matrix(1,0,0,1,11471.6,-2257.89)">
+            <rect x="1924" y="6395" width="174.85" height="174.85" style="fill:rgb(160,101,170);"/>
+            <text x="1931.53px" y="6527.16px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:125px;fill:white;">U2</text>
+        </g>
+        <g transform="matrix(1,0,0,1,1039.73,-2619.83)">
+            <rect x="1924" y="6395" width="174.85" height="174.85" style="fill:rgb(255,125,36);"/>
+            <text x="1931.53px" y="6527.16px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:125px;fill:white;">U3</text>
+        </g>
+        <g transform="matrix(1,0,0,1,-525.879,3189.55)">
+            <rect x="1924" y="6395" width="174.85" height="174.85" style="fill:rgb(154,103,54);"/>
+            <text x="1931.53px" y="6527.16px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:125px;fill:white;">U6</text>
+        </g>
+        <g>
+            <g transform="matrix(4.17023,0,0,5.7925,246,230)">
+                <rect x="0" y="0" width="561.3" height="131.6" style="fill:rgb(15,108,177);fill-rule:nonzero;"/>
+            </g>
+            <g transform="matrix(5.7925,0,0,5.7925,246,230)">
+                <rect x="1.38" y="1.4" width="130.2" height="128.8" style="fill:white;fill-rule:nonzero;"/>
+            </g>
+            <g transform="matrix(5.7925,0,0,5.7925,246,230)">
+                <path d="M44.84,93.95C44.48,93.95 44.19,93.66 44.19,93.3C44.19,93.09 44.29,92.9 44.44,92.78L57.67,83.02L22.92,83.02C22.55,83.02 22.26,82.73 22.26,82.37C22.26,82.15 22.37,81.95 22.54,81.83L40.72,68.43C40.84,68.32 41,68.24 41.18,68.24L55.28,68.24C58.44,68.36 60.12,68.7 61.1,69.34C62.28,70.13 62.63,71.03 62.85,71.63C64.42,75.95 66.45,89.7 66.55,90.37C66.65,89.7 68.67,75.95 70.24,71.63C70.47,71.03 70.81,70.13 72,69.34C72.97,68.7 74.66,68.36 77.82,68.24L112.38,68.24C112.74,68.24 113.04,68.54 113.04,68.9C113.04,69.12 112.92,69.32 112.74,69.44L79.78,93.82C79.67,93.9 79.53,93.95 79.39,93.95L44.84,93.95Z" style="fill:rgb(15,108,177);fill-rule:nonzero;"/>
+            </g>
+            <g transform="matrix(5.7925,0,0,5.7925,246,230)">
+                <path d="M110.2,48.62C110.56,48.62 110.85,48.91 110.85,49.27C110.85,49.49 110.74,49.69 110.58,49.81L92.28,63.28C92.17,63.35 92.04,63.39 91.9,63.39L77.81,63.39C74.65,63.28 72.96,62.94 71.99,62.3C70.81,61.51 70.46,60.61 70.24,60.01C68.66,55.69 66.64,41.94 66.54,41.27C66.44,41.94 64.41,55.69 62.84,60.01C62.62,60.61 62.27,61.51 61.09,62.3C60.11,62.94 58.43,63.28 55.27,63.39L20.69,63.4C20.33,63.4 20.04,63.11 20.04,62.75C20.04,62.55 20.12,62.38 20.27,62.26L21.32,61.48L53.3,37.83C53.41,37.74 53.55,37.69 53.71,37.69L88.26,37.69C88.62,37.69 88.91,37.98 88.91,38.35C88.91,38.56 88.81,38.75 88.65,38.87L75.41,48.62L110.2,48.62Z" style="fill:rgb(227,0,15);fill-rule:nonzero;"/>
+            </g>
+            <g transform="matrix(5.7925,0,0,5.7925,-589.877,230.007)">
+                <path d="M528.9,49.23L528.9,83.27C528.9,83.27 528.84,84.19 528.23,83.78C519.98,78.03 507.07,67.04 507.07,67.04L507.07,82.55C507.07,83.01 507.07,83.01 506.57,83.01L498.31,83.01C497.92,83.01 497.76,82.5 497.76,82.5L497.76,48.1C497.76,48.1 498.09,47.59 498.37,47.74C506.18,52.93 519.59,64.43 519.59,64.43L519.59,49.23C519.59,48.67 519.59,48.62 520.03,48.62L528.34,48.62C528.9,48.62 528.9,49.23 528.9,49.23M493.2,75.77L493.2,82.29C493.2,82.91 493.14,83.01 492.59,83.01L467.6,83.01C467.05,83.01 466.99,82.91 466.99,82.29L466.99,49.13C466.99,48.67 466.93,48.62 467.49,48.62L492.26,48.62C492.75,48.62 492.81,48.67 492.81,49.28L492.81,55.5C492.81,55.91 492.64,56.16 492.26,56.16L476.57,56.01L476.57,61.76L491.92,61.76C492.42,61.76 492.48,61.86 492.48,62.48L492.48,68.64C492.48,69.25 492.42,69.36 491.92,69.36L476.57,69.36L476.57,75.26L492.59,75.11C493.2,75.11 493.2,75.11 493.2,75.77M462.42,49.08L462.42,82.55C462.42,82.96 462.36,83.01 461.86,83.01L452.78,83.01C452.28,83.01 452.28,83.06 452.28,82.55L452.28,49.08C452.28,48.57 452.28,48.62 452.78,48.62L461.86,48.62C462.36,48.62 462.42,48.67 462.42,49.08M447.71,49.23L447.71,83.27C447.71,83.27 447.65,84.19 447.04,83.78C438.79,78.03 425.88,67.04 425.88,67.04L425.88,82.55C425.88,83.01 425.88,83.01 425.38,83.01L417.12,83.01C416.74,83.01 416.57,82.5 416.57,82.5L416.57,48.1C416.57,48.1 416.9,47.59 417.18,47.74C424.99,52.93 438.4,64.43 438.4,64.43L438.4,49.23C438.4,48.67 438.4,48.62 438.84,48.62L447.15,48.62C447.71,48.62 447.71,49.23 447.71,49.23M412,49.08L412,82.55C412,82.96 411.94,83.01 411.45,83.01L402.36,83.01C401.86,83.01 401.86,83.06 401.86,82.55L401.86,49.08C401.86,48.57 401.86,48.62 402.36,48.62L411.45,48.62C411.94,48.62 412,48.67 412,49.08M397.29,75.21L397.29,82.55C397.29,82.96 397.29,83.01 396.85,83.01L372.35,83.01C371.86,83.01 371.86,83.06 371.86,82.55L371.86,49.08C371.86,48.57 371.86,48.62 372.35,48.62L381.22,48.62C381.66,48.62 381.72,48.67 381.72,49.08L381.72,74.85L396.79,74.69C397.24,74.69 397.29,74.8 397.29,75.21" style="fill:white;fill-rule:nonzero;"/>
+            </g>
+            <g transform="matrix(0.177068,-3.96059e-33,-3.96059e-33,-0.177068,184.846,791.939)">
+                <path d="M5594.11,466.284L5594.11,1270.88L5836.11,1270.88L5836.11,466.284L5594.11,466.284ZM5287.81,1583.58L6134.81,1583.58L6134.81,1341.38L5287.81,1341.38L5287.81,1583.58ZM6661.81,459.584L6649.01,460.784C6422.01,484.584 6246.41,676.284 6246.41,909.584L6246.41,1583.58L6491.91,1583.58L6491.51,915.584C6491.51,817.984 6559.51,730.084 6650.51,706.984C6654.51,705.984 6657.51,705.384 6662.51,704.684L6661.81,459.584ZM6735.31,704.884C6738.31,705.584 6741.31,705.884 6745.31,706.884C6836.31,729.884 6904.31,817.884 6904.31,915.484L6902.31,1583.48L7149.31,1583.48L7149.31,911.484C7149.31,677.484 6972.31,483.484 6745.31,459.484L6735.31,458.484L6735.31,704.484" style="fill:white;"/>
+            </g>
+        </g>
+        <g transform="matrix(0.0871421,0,0,-0.0871421,6632.68,4966.53)">
+            <path d="M2041,2267.7C2166,2267.7 2267.2,2166.1 2267.2,2040.7L2267.7,226.9C2267.7,100.9 2165.7,-0.1 2040.7,-0.1L226.7,-0.1C101.7,0 0,101 0,227L0.2,2040.8C0.2,2166.1 101.5,2267.8 226.6,2267.8L2041,2267.7ZM480.7,922.7L480.7,1727.3L722.7,1727.3L722.7,922.7L480.7,922.7ZM174.4,2040L1021.4,2040L1021.4,1797.8L174.4,1797.8L174.4,2040ZM685.8,631L604.5,631L542.3,379.3L469.3,631L411,631L338.4,379.3L276.7,631L195.4,631L302,232L367,232L440.4,474L513.8,232L578.8,232L685.8,631ZM2037,232L2037,631L1959.3,631L1959.3,386.8L1801.3,631.2L1731.7,631.2L1731.7,232.2L1809.7,232.2L1809.7,477L1967.7,232L2037,232ZM1479,232L1479,301.4L1294,301.4L1294,398.4L1451.6,398.4L1451.6,468L1294,468L1294,561.7L1479,561.7L1479,631.2L1216,631.2L1216,232.2L1479,232ZM949,232L949,631L871,631L871,232L949,232ZM1548.4,916L1535.6,917.2C1308.6,941 1133,1132.7 1133,1366L1133,2040L1378.5,2040L1378.1,1372C1378.1,1274.4 1446.1,1186.5 1537.1,1163.4C1541.1,1162.4 1544.1,1161.8 1549.1,1161.1L1548.4,916ZM1621.9,1161.3C1624.9,1162 1627.9,1162.3 1631.9,1163.3C1722.9,1186.3 1790.9,1274.3 1790.9,1371.9L1788.9,2039.9L2035.9,2039.9L2035.9,1367.9C2035.9,1133.9 1858.9,939.9 1631.9,915.9L1621.9,914.9L1621.9,1160.9" style="fill:rgb(15,108,177);"/>
+        </g>
+    </g>
+</svg>
