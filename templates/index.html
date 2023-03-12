@@ -3,20 +3,18 @@
 <head>
     <meta charset="UTF-8">
     <title>Title</title>
+     <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <script src="https://code.jquery.com/jquery-3.6.3.js"></script>
 </head>
 <body>
     {% include 'tu_linien_netzplan.svg' %}
 
+    <div id="tooltip"></div>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap" rel="stylesheet">
+    <script src="{{ url_for('static', filename='functions.js') }}"></script>
     <script>
-        let stations = document.getElementById("Stations").children;
-
-
-        for (let i = 0; i < stations.length; i++) {
-
-
-
-        }
-
         /*
         let tuLinien = document.getElementById("TULinien");
         let desc = document.getElementById("desc");

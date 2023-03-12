@@ -1,0 +1,41 @@
+html, body {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    font-family: 'Roboto', sans-serif;
+}
+
+#Stations g {
+    cursor: pointer;
+}
+
+#tooltip {
+    position: absolute;
+    font-size: 1.5em;
+    padding: 5px 20px 5px 20px;
+    border-radius: 5px;
+    transform: translateY(-50%);
+    background-color: black;
+    color: #fff;
+}
+
+#tooltip::after {
+  content: " ";
+  position: absolute;
+  top: 50%;
+  margin-top: -5px;
+  border-width: 5px;
+  border-style: solid;
+}
+
+#tooltip.right::after  {
+    right: 100%;
+    border-color: transparent black transparent transparent;
+}
+
+#tooltip.left::after {
+    left: 100%;
+    border-color: transparent transparent transparent black;
+}
